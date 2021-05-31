@@ -1,0 +1,374 @@
+$primary: #7510f7;
+$secondary: #141c3a;
+$white: #ffffff;
+
+@font-face {
+  font-family: Book;
+  src: url(../fonts/Nanami-Book.otf);
+}
+@font-face {
+  font-family: Light;
+  src: url(../fonts/Nanami-Light.otf);
+}
+@font-face {
+  font-family: Bold;
+  src: url(../fonts/Nanami-Bold.otf);
+}
+@font-face {
+  font-family: Luxia;
+  src: url(../fonts/Luxia-Regular.otf);
+}
+* {
+  font-family: Light;
+}
+body {
+  overflow-x: hidden;
+  nav {
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .logo {
+      // width: 50px;
+      // height: 50px;
+      padding: 5px 10px;
+      background: $primary;
+      margin-left: 8%;
+      border-radius: 10px;
+      color: $white;
+      font-family: Bold;
+      font-size: 20px;
+    }
+    .rightPart {
+      margin-right: 8%;
+      .mentorship {
+        color: $secondary;
+        font-size: 18px;
+        transition: 0.5s;
+        text-decoration: none;
+        margin: 0 20px;
+        &:hover {
+          color: $primary;
+        }
+      }
+      .contactBtn {
+        color: $primary;
+        font-size: 16px;
+        font-family: Bold;
+        border: 2px solid $primary;
+        border-radius: 30px;
+        padding: 10px 20px;
+        text-decoration: none;
+        transition: 0.5s;
+        &:hover {
+          background-color: $primary;
+          color: $white;
+        }
+      }
+    }
+  }
+  .intro {
+    padding-top: 6vh;
+    .introTitle {
+      color: $secondary;
+      text-align: center;
+      font-size: 50px;
+      font-family: Bold;
+      height: 60px;
+      overflow: hidden;
+      transition: 1s 1s;
+      &.hidden{
+        padding-top: 60px;
+      }
+      @media (max-width: 768px) {
+        font-size: 35px;
+      }
+    }
+    .introSubTitle {
+      text-align: center;
+      color: $secondary;
+      font-size: 20px;
+      margin-top: 20px;
+      transition: 1s 1.3s;
+      overflow: hidden;
+      height: 30px;
+      &.hidden{
+        padding-top: 30px;
+      }
+      @media (max-width: 768px) {
+      }
+    }
+    .avatar {
+      width: 20%;
+      margin: 30px auto;
+      @media (max-width: 768px) {
+        width: 50%;
+      }
+      img {
+        object-fit: cover;
+        width: 100%;
+        height: 100%;
+      }
+    }
+    .devices {
+      display: flex;
+      justify-content: center;
+      height: 250px;
+      margin: 60px auto 0;
+      @media (max-width: 768px) {
+        width: 90%;
+        height: auto;
+      }
+      img {
+        width: auto;
+        height: 100%;
+        @media (max-width: 768px) {
+          height: 100%;
+          width: 100%;
+        }
+      }
+    }
+  }
+  .about {
+    background-color: $primary;
+    padding: 20vh 25% 40vh;
+    @media (max-width: 768px) {
+      padding: 5vh 5% 15vh;
+    }
+    .aboutTitle {
+      color: $white;
+      text-align: center;
+      font-family: Book;
+    }
+    .aboutDes {
+      text-align: center;
+      color: $white;
+      margin-top: 10px;
+      font-size: 18px;
+    }
+  }
+  .box {
+    width: 80%;
+    min-height: 500px;
+    margin: -15% auto 0;
+    background-color: $white;
+    box-shadow: 0 5px 5px 0 rgba(233, 240, 243, 0.5), 0 0 0 1px #e6ecf8;
+    border-radius: 12px;
+    margin-bottom: 30px;
+    @media (max-width: 768px) {
+      width: 90%;
+    }
+    .row {
+      .col-md-4:not(:last-child) {
+        @media (min-width: 768px) {
+          border-bottom: 0px solid #e6ecf8;
+          border-right: 1px solid #e6ecf8;
+        }
+        @media (max-width: 768px) {
+          border-bottom: 1px solid #e6ecf8;
+          border-right: 0px solid #e6ecf8;
+        }
+      }
+    }
+    .boxCard {
+      padding: 70px 10%;
+      @media (max-width: 768px) {
+        padding: 40px 10%;
+      }
+      .cardImg {
+        margin: 0 auto;
+        display: flex;
+        
+      }
+      .cardTitle {
+        text-align: center;
+        padding: 30px 0 10px;
+        font-family: Bold;
+        color: $secondary;
+      }
+      .cardSubTitle {
+        color: $primary;
+        font-size: 18px;
+        text-align: center;
+        padding: 70px 0 10px;
+        font-family: Book;
+        @media (max-width: 768px) {
+          padding: 40px 0 10px;
+        }
+      }
+      .cardDes {
+        text-align: center;
+        color: $secondary;
+        margin-bottom: 5px;
+      }
+    }
+  }
+  .skills {
+    .skillsTitle {
+      font-family: Bold;
+      width: 50%;
+      margin: 120px auto 50px;
+      text-align: center;
+      @media (max-width: 768px) {
+        width: 90%;
+        font-size: 30px;
+      }
+    }
+    .skillsCon {
+      margin-bottom: 100px;
+      .skillImg {
+        margin: 0 auto;
+        display: block;
+        max-width: 60%;
+        height: 100px;
+        object-fit: contain;
+        object-position: center center;
+        margin-bottom: 40px;
+        filter: drop-shadow(2px 2px 1px #00000033);
+        transition: 0.5s ease;
+        &:hover{
+        filter: drop-shadow(4px 4px 4px #00000044);
+
+          transform: scale(1.1);
+        }
+        @media (max-width: 768px) {
+          margin-bottom: 30px;
+        }
+      }
+    }
+  }
+  .projectsIntro {
+    background-color: $primary;
+    padding: 20vh 25% 40vh;
+    @media (max-width: 768px) {
+      padding: 5vh 5% 15vh;
+    }
+    .projectsTitle {
+      color: $white;
+      text-align: center;
+      font-family: Book;
+    }
+    .projectsDes {
+      text-align: center;
+      color: $white;
+      margin-top: 10px;
+      font-size: 18px;
+    }
+  }
+  .projects {
+    width: 100%;
+    min-height: 500px;
+    margin: -15% auto 50px;
+    @media (max-width: 768px) {
+      margin: -20% auto 50px;
+    }
+    .projectCrad {
+      padding: 30px 10% 10px;
+      box-shadow: 0 5px 5px 0 rgba(233, 240, 243, 0.5), 0 0 0 1px #e6ecf8;
+      border-radius: 12px;
+      background-color: $white;
+      margin-bottom: 20px;
+      .cardImg {
+        width: auto;
+        margin: 0 auto;
+        display: flex;
+        height: 100px;
+        max-width: 70%;
+        margin-bottom: 10px;
+        object-fit: contain;
+      }
+      .cardDes {
+        text-align: center;
+        height: 100px;
+        margin-top: 20px;
+      }
+      .cardLink {
+        text-align: center;
+        color: $primary;
+        text-decoration: none;
+        display: block;
+        margin: 30px auto;
+        font-size: 18px;
+        font-family: Book;
+      }
+    }
+  }
+  .startProject {
+    background-color: $secondary;
+    z-index: 10;
+    position: relative;
+    padding: 40px 0;
+    width: 80%;
+    color: $white;
+    margin: 0 auto -5%;
+    box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2), 0 0 0 1px $secondary;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+
+    @media (max-width: 768px) {
+      width: 90%;
+      padding: 40px 20px;
+      margin: 0 auto -50%;
+    }
+    .startProjectTitle {
+      text-align: center;
+      @media (max-width: 768px) {
+        margin-bottom: 40px;
+      }
+    }
+    .startProjectDes {
+      text-align: center;
+      margin-bottom: 0;
+      @media (max-width: 768px) {
+        margin-bottom: 40px;
+      }
+    }
+    .startProjectLink {
+      color: $white;
+      text-align: center;
+      display: block;
+      text-decoration: none;
+      font-family: Book;
+      border: 2px solid $primary;
+      border-radius: 30px;
+      padding: 10px 50px;
+      transition: 0.5s;
+      width: fit-content;
+      font-size: 20px;
+      margin: 0 auto;
+      &:hover {
+        background-color: $primary;
+      }
+    }
+  }
+  footer {
+    height: 50vh;
+    background-color: $primary;
+    padding-top: 120px;
+    @media (max-width: 768px) {
+      padding-top: 60%;
+      padding-bottom: 20% !important;
+      height: auto;
+    }
+    .logo {
+      // width: 50px;
+      // height: 50px;
+      padding: 5px 10px;
+      background: $white;
+      border-radius: 10px;
+      color: $primary;
+      font-family: Bold;
+      font-size: 20px;
+      width: fit-content;
+      margin: 0 auto 20px;
+    }
+    .footerText {
+      text-align: center;
+      color: $white;
+      display: block;
+      font-size: 25px;
+      opacity: 0.8;
+    }
+  }
+}
