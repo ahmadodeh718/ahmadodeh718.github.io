@@ -24,6 +24,7 @@
 
 body {
   overflow-x: hidden;
+  background-color: #ffffff;
 }
 
 body nav {
@@ -60,6 +61,12 @@ body nav .rightPart .mentorship {
   transition: 0.5s;
   text-decoration: none;
   margin: 0 20px;
+}
+
+@media (max-width: 768px) {
+  body nav .rightPart .mentorship {
+    display: none;
+  }
 }
 
 body nav .rightPart .mentorship:hover {
@@ -105,6 +112,7 @@ body .intro .introTitle.hidden {
 @media (max-width: 768px) {
   body .intro .introTitle {
     font-size: 35px;
+    height: auto;
   }
 }
 
@@ -117,6 +125,12 @@ body .intro .introSubTitle {
   transition: 1s 1.3s;
   overflow: hidden;
   height: 30px;
+}
+
+@media (max-width: 768px) {
+  body .intro .introSubTitle {
+    height: auto;
+  }
 }
 
 body .intro .introSubTitle.hidden {
@@ -360,6 +374,22 @@ body .projects .projectCrad {
   border-radius: 12px;
   background-color: #ffffff;
   margin-bottom: 20px;
+}
+
+body .projects .projectCrad .cardTitle {
+  color: #7510f7;
+  font-family: Bold;
+  text-align: center;
+  height: 100px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 
 body .projects .projectCrad .cardImg {
