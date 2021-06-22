@@ -629,450 +629,450 @@ body main .services .servicesBeyond .circle:hover {
 }
 
 body main .services .servicesBeyond .circle:nth-child(1) {
-  -webkit-animation: circleMove 10s infinite 3s;
-          animation: circleMove 10s infinite 3s;
-  left: 1766px;
+  -webkit-animation: circleMove 9s infinite 7s;
+          animation: circleMove 9s infinite 7s;
+  left: 581px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(2) {
-  -webkit-animation: circleMove 7s infinite 9s;
-          animation: circleMove 7s infinite 9s;
-  left: 319px;
+  -webkit-animation: circleMove 6s infinite 7s;
+          animation: circleMove 6s infinite 7s;
+  left: 856px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(3) {
-  -webkit-animation: circleMove 11s infinite 7s;
-          animation: circleMove 11s infinite 7s;
-  left: 12px;
+  -webkit-animation: circleMove 8s infinite 10s;
+          animation: circleMove 8s infinite 10s;
+  left: 1109px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(4) {
-  -webkit-animation: circleMove 11s infinite 3s;
-          animation: circleMove 11s infinite 3s;
-  left: 182px;
+  -webkit-animation: circleMove 8s infinite 10s;
+          animation: circleMove 8s infinite 10s;
+  left: 1780px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(5) {
-  -webkit-animation: circleMove 11s infinite 3s;
-          animation: circleMove 11s infinite 3s;
-  left: 1816px;
+  -webkit-animation: circleMove 8s infinite 4s;
+          animation: circleMove 8s infinite 4s;
+  left: 363px;
   width: 40px;
   height: 40px;
   opacity: 1;
 }
 
 body main .services .servicesBeyond .circle:nth-child(6) {
-  -webkit-animation: circleMove 9s infinite 7s;
-          animation: circleMove 9s infinite 7s;
-  left: 49px;
+  -webkit-animation: circleMove 10s infinite 3s;
+          animation: circleMove 10s infinite 3s;
+  left: 221px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(7) {
-  -webkit-animation: circleMove 9s infinite 1s;
-          animation: circleMove 9s infinite 1s;
-  left: 590px;
+  -webkit-animation: circleMove 8s infinite 5s;
+          animation: circleMove 8s infinite 5s;
+  left: 1685px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(8) {
-  -webkit-animation: circleMove 11s infinite 8s;
-          animation: circleMove 11s infinite 8s;
-  left: 737px;
+  -webkit-animation: circleMove 6s infinite 9s;
+          animation: circleMove 6s infinite 9s;
+  left: 990px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(9) {
-  -webkit-animation: circleMove 6s infinite 4s;
-          animation: circleMove 6s infinite 4s;
-  left: 1134px;
+  -webkit-animation: circleMove 10s infinite 5s;
+          animation: circleMove 10s infinite 5s;
+  left: 459px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(10) {
-  -webkit-animation: circleMove 8s infinite 1s;
-          animation: circleMove 8s infinite 1s;
-  left: 386px;
+  -webkit-animation: circleMove 8s infinite 5s;
+          animation: circleMove 8s infinite 5s;
+  left: 1594px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(11) {
-  -webkit-animation: circleMove 12s infinite 4s;
-          animation: circleMove 12s infinite 4s;
-  left: 1260px;
+  -webkit-animation: circleMove 10s infinite 7s;
+          animation: circleMove 10s infinite 7s;
+  left: 957px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(12) {
-  -webkit-animation: circleMove 8s infinite 7s;
-          animation: circleMove 8s infinite 7s;
-  left: 1566px;
+  -webkit-animation: circleMove 9s infinite 10s;
+          animation: circleMove 9s infinite 10s;
+  left: 1878px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(13) {
-  -webkit-animation: circleMove 10s infinite 3s;
-          animation: circleMove 10s infinite 3s;
-  left: 1703px;
+  -webkit-animation: circleMove 12s infinite 3s;
+          animation: circleMove 12s infinite 3s;
+  left: 484px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(14) {
-  -webkit-animation: circleMove 12s infinite 7s;
-          animation: circleMove 12s infinite 7s;
-  left: 451px;
+  -webkit-animation: circleMove 8s infinite 3s;
+          animation: circleMove 8s infinite 3s;
+  left: 746px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(15) {
-  -webkit-animation: circleMove 12s infinite 7s;
-          animation: circleMove 12s infinite 7s;
-  left: 1287px;
+  -webkit-animation: circleMove 10s infinite 10s;
+          animation: circleMove 10s infinite 10s;
+  left: 1884px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(16) {
-  -webkit-animation: circleMove 10s infinite 8s;
-          animation: circleMove 10s infinite 8s;
-  left: 231px;
+  -webkit-animation: circleMove 7s infinite 6s;
+          animation: circleMove 7s infinite 6s;
+  left: 28px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(17) {
-  -webkit-animation: circleMove 10s infinite 1s;
-          animation: circleMove 10s infinite 1s;
-  left: 1218px;
+  -webkit-animation: circleMove 7s infinite 3s;
+          animation: circleMove 7s infinite 3s;
+  left: 848px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(18) {
-  -webkit-animation: circleMove 9s infinite 8s;
-          animation: circleMove 9s infinite 8s;
-  left: 1299px;
+  -webkit-animation: circleMove 7s infinite 8s;
+          animation: circleMove 7s infinite 8s;
+  left: 1543px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(19) {
-  -webkit-animation: circleMove 9s infinite 6s;
-          animation: circleMove 9s infinite 6s;
-  left: 1572px;
+  -webkit-animation: circleMove 9s infinite 2s;
+          animation: circleMove 9s infinite 2s;
+  left: 611px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(20) {
-  -webkit-animation: circleMove 6s infinite 4s;
-          animation: circleMove 6s infinite 4s;
-  left: 1581px;
+  -webkit-animation: circleMove 11s infinite 4s;
+          animation: circleMove 11s infinite 4s;
+  left: 1664px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(21) {
-  -webkit-animation: circleMove 10s infinite 1s;
-          animation: circleMove 10s infinite 1s;
-  left: 1503px;
+  -webkit-animation: circleMove 8s infinite 8s;
+          animation: circleMove 8s infinite 8s;
+  left: 979px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(22) {
-  -webkit-animation: circleMove 10s infinite 2s;
-          animation: circleMove 10s infinite 2s;
-  left: 855px;
+  -webkit-animation: circleMove 9s infinite 8s;
+          animation: circleMove 9s infinite 8s;
+  left: 1493px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(23) {
-  -webkit-animation: circleMove 9s infinite 1s;
-          animation: circleMove 9s infinite 1s;
-  left: 89px;
+  -webkit-animation: circleMove 10s infinite 4s;
+          animation: circleMove 10s infinite 4s;
+  left: 408px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(24) {
-  -webkit-animation: circleMove 10s infinite 8s;
-          animation: circleMove 10s infinite 8s;
-  left: 439px;
+  -webkit-animation: circleMove 10s infinite 1s;
+          animation: circleMove 10s infinite 1s;
+  left: 1663px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(25) {
-  -webkit-animation: circleMove 10s infinite 4s;
-          animation: circleMove 10s infinite 4s;
-  left: 1568px;
+  -webkit-animation: circleMove 7s infinite 7s;
+          animation: circleMove 7s infinite 7s;
+  left: 1363px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(26) {
-  -webkit-animation: circleMove 7s infinite 8s;
-          animation: circleMove 7s infinite 8s;
-  left: 412px;
+  -webkit-animation: circleMove 12s infinite 2s;
+          animation: circleMove 12s infinite 2s;
+  left: 1898px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(27) {
-  -webkit-animation: circleMove 12s infinite 6s;
-          animation: circleMove 12s infinite 6s;
-  left: 1706px;
+  -webkit-animation: circleMove 12s infinite 2s;
+          animation: circleMove 12s infinite 2s;
+  left: 1885px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(28) {
-  -webkit-animation: circleMove 7s infinite 6s;
-          animation: circleMove 7s infinite 6s;
-  left: 1070px;
+  -webkit-animation: circleMove 8s infinite 7s;
+          animation: circleMove 8s infinite 7s;
+  left: 1635px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(29) {
-  -webkit-animation: circleMove 8s infinite 4s;
-          animation: circleMove 8s infinite 4s;
-  left: 211px;
+  -webkit-animation: circleMove 10s infinite 4s;
+          animation: circleMove 10s infinite 4s;
+  left: 1715px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(30) {
-  -webkit-animation: circleMove 10s infinite 6s;
-          animation: circleMove 10s infinite 6s;
-  left: 1925px;
+  -webkit-animation: circleMove 9s infinite 6s;
+          animation: circleMove 9s infinite 6s;
+  left: 1834px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(31) {
-  -webkit-animation: circleMove 6s infinite 3s;
-          animation: circleMove 6s infinite 3s;
-  left: 1632px;
+  -webkit-animation: circleMove 11s infinite 6s;
+          animation: circleMove 11s infinite 6s;
+  left: 720px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(32) {
-  -webkit-animation: circleMove 8s infinite 7s;
-          animation: circleMove 8s infinite 7s;
-  left: 606px;
+  -webkit-animation: circleMove 11s infinite 2s;
+          animation: circleMove 11s infinite 2s;
+  left: 852px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(33) {
-  -webkit-animation: circleMove 8s infinite 3s;
-          animation: circleMove 8s infinite 3s;
-  left: 1796px;
+  -webkit-animation: circleMove 6s infinite 1s;
+          animation: circleMove 6s infinite 1s;
+  left: 1857px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(34) {
-  -webkit-animation: circleMove 7s infinite 2s;
-          animation: circleMove 7s infinite 2s;
-  left: 1249px;
+  -webkit-animation: circleMove 10s infinite 10s;
+          animation: circleMove 10s infinite 10s;
+  left: 333px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(35) {
-  -webkit-animation: circleMove 9s infinite 4s;
-          animation: circleMove 9s infinite 4s;
-  left: 541px;
+  -webkit-animation: circleMove 7s infinite 2s;
+          animation: circleMove 7s infinite 2s;
+  left: 110px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(36) {
-  -webkit-animation: circleMove 9s infinite 5s;
-          animation: circleMove 9s infinite 5s;
-  left: 1581px;
+  -webkit-animation: circleMove 9s infinite 10s;
+          animation: circleMove 9s infinite 10s;
+  left: 708px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(37) {
-  -webkit-animation: circleMove 7s infinite 4s;
-          animation: circleMove 7s infinite 4s;
-  left: 1112px;
+  -webkit-animation: circleMove 9s infinite 1s;
+          animation: circleMove 9s infinite 1s;
+  left: 371px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(38) {
-  -webkit-animation: circleMove 11s infinite 1s;
-          animation: circleMove 11s infinite 1s;
-  left: 841px;
+  -webkit-animation: circleMove 11s infinite 10s;
+          animation: circleMove 11s infinite 10s;
+  left: 1628px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(39) {
-  -webkit-animation: circleMove 11s infinite 4s;
-          animation: circleMove 11s infinite 4s;
-  left: 1199px;
+  -webkit-animation: circleMove 12s infinite 7s;
+          animation: circleMove 12s infinite 7s;
+  left: 742px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(40) {
-  -webkit-animation: circleMove 8s infinite 6s;
-          animation: circleMove 8s infinite 6s;
-  left: 188px;
+  -webkit-animation: circleMove 11s infinite 4s;
+          animation: circleMove 11s infinite 4s;
+  left: 1732px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(41) {
-  -webkit-animation: circleMove 11s infinite 3s;
-          animation: circleMove 11s infinite 3s;
-  left: 1733px;
+  -webkit-animation: circleMove 10s infinite 8s;
+          animation: circleMove 10s infinite 8s;
+  left: 708px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(42) {
-  -webkit-animation: circleMove 10s infinite 10s;
-          animation: circleMove 10s infinite 10s;
-  left: 650px;
+  -webkit-animation: circleMove 10s infinite 9s;
+          animation: circleMove 10s infinite 9s;
+  left: 883px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(43) {
-  -webkit-animation: circleMove 11s infinite 10s;
-          animation: circleMove 11s infinite 10s;
-  left: 1442px;
+  -webkit-animation: circleMove 7s infinite 1s;
+          animation: circleMove 7s infinite 1s;
+  left: 1616px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(44) {
-  -webkit-animation: circleMove 7s infinite 8s;
-          animation: circleMove 7s infinite 8s;
-  left: 1560px;
+  -webkit-animation: circleMove 9s infinite 6s;
+          animation: circleMove 9s infinite 6s;
+  left: 802px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(45) {
-  -webkit-animation: circleMove 9s infinite 1s;
-          animation: circleMove 9s infinite 1s;
-  left: 1816px;
+  -webkit-animation: circleMove 11s infinite 10s;
+          animation: circleMove 11s infinite 10s;
+  left: 1524px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(46) {
-  -webkit-animation: circleMove 11s infinite 7s;
-          animation: circleMove 11s infinite 7s;
-  left: 1164px;
+  -webkit-animation: circleMove 12s infinite 1s;
+          animation: circleMove 12s infinite 1s;
+  left: 990px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(47) {
-  -webkit-animation: circleMove 11s infinite 7s;
-          animation: circleMove 11s infinite 7s;
-  left: 1136px;
+  -webkit-animation: circleMove 12s infinite 6s;
+          animation: circleMove 12s infinite 6s;
+  left: 1145px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(48) {
-  -webkit-animation: circleMove 8s infinite 8s;
-          animation: circleMove 8s infinite 8s;
-  left: 1275px;
+  -webkit-animation: circleMove 9s infinite 10s;
+          animation: circleMove 9s infinite 10s;
+  left: 1999px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(49) {
-  -webkit-animation: circleMove 9s infinite 6s;
-          animation: circleMove 9s infinite 6s;
-  left: 961px;
+  -webkit-animation: circleMove 10s infinite 5s;
+          animation: circleMove 10s infinite 5s;
+  left: 1994px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .services .servicesBeyond .circle:nth-child(50) {
-  -webkit-animation: circleMove 7s infinite 5s;
-          animation: circleMove 7s infinite 5s;
-  left: 972px;
+  -webkit-animation: circleMove 12s infinite 1s;
+          animation: circleMove 12s infinite 1s;
+  left: 741px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
@@ -2269,396 +2269,396 @@ body main .aboutUs .intro .circle:hover {
 }
 
 body main .aboutUs .intro .circle:nth-child(1) {
-  -webkit-animation: circleMove 9s infinite 8s;
-          animation: circleMove 9s infinite 8s;
-  left: 1425px;
+  -webkit-animation: circleMove 10s infinite 7s;
+          animation: circleMove 10s infinite 7s;
+  left: 614px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(2) {
-  -webkit-animation: circleMove 9s infinite 4s;
-          animation: circleMove 9s infinite 4s;
-  left: 1612px;
+  -webkit-animation: circleMove 7s infinite 10s;
+          animation: circleMove 7s infinite 10s;
+  left: 1170px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(3) {
-  -webkit-animation: circleMove 9s infinite 5s;
-          animation: circleMove 9s infinite 5s;
-  left: 1111px;
+  -webkit-animation: circleMove 6s infinite 10s;
+          animation: circleMove 6s infinite 10s;
+  left: 37px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(4) {
-  -webkit-animation: circleMove 8s infinite 2s;
-          animation: circleMove 8s infinite 2s;
-  left: 1065px;
+  -webkit-animation: circleMove 9s infinite 9s;
+          animation: circleMove 9s infinite 9s;
+  left: 1653px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(5) {
-  -webkit-animation: circleMove 7s infinite 6s;
-          animation: circleMove 7s infinite 6s;
-  left: 1981px;
+  -webkit-animation: circleMove 10s infinite 5s;
+          animation: circleMove 10s infinite 5s;
+  left: 567px;
   width: 40px;
   height: 40px;
   opacity: 1;
 }
 
 body main .aboutUs .intro .circle:nth-child(6) {
-  -webkit-animation: circleMove 9s infinite 6s;
-          animation: circleMove 9s infinite 6s;
-  left: 1913px;
+  -webkit-animation: circleMove 8s infinite 3s;
+          animation: circleMove 8s infinite 3s;
+  left: 297px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(7) {
-  -webkit-animation: circleMove 9s infinite 6s;
-          animation: circleMove 9s infinite 6s;
-  left: 1510px;
+  -webkit-animation: circleMove 12s infinite 2s;
+          animation: circleMove 12s infinite 2s;
+  left: 1480px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(8) {
-  -webkit-animation: circleMove 11s infinite 9s;
-          animation: circleMove 11s infinite 9s;
-  left: 1922px;
+  -webkit-animation: circleMove 8s infinite 6s;
+          animation: circleMove 8s infinite 6s;
+  left: 1016px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(9) {
-  -webkit-animation: circleMove 8s infinite 7s;
-          animation: circleMove 8s infinite 7s;
-  left: 507px;
+  -webkit-animation: circleMove 11s infinite 6s;
+          animation: circleMove 11s infinite 6s;
+  left: 1038px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(10) {
-  -webkit-animation: circleMove 7s infinite 6s;
-          animation: circleMove 7s infinite 6s;
-  left: 1570px;
+  -webkit-animation: circleMove 10s infinite 7s;
+          animation: circleMove 10s infinite 7s;
+  left: 1938px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(11) {
-  -webkit-animation: circleMove 9s infinite 4s;
-          animation: circleMove 9s infinite 4s;
-  left: 440px;
+  -webkit-animation: circleMove 9s infinite 3s;
+          animation: circleMove 9s infinite 3s;
+  left: 1850px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(12) {
-  -webkit-animation: circleMove 6s infinite 2s;
-          animation: circleMove 6s infinite 2s;
-  left: 1438px;
+  -webkit-animation: circleMove 7s infinite 1s;
+          animation: circleMove 7s infinite 1s;
+  left: 710px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(13) {
-  -webkit-animation: circleMove 11s infinite 10s;
-          animation: circleMove 11s infinite 10s;
-  left: 838px;
+  -webkit-animation: circleMove 10s infinite 9s;
+          animation: circleMove 10s infinite 9s;
+  left: 329px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(14) {
-  -webkit-animation: circleMove 11s infinite 3s;
-          animation: circleMove 11s infinite 3s;
-  left: 1912px;
+  -webkit-animation: circleMove 9s infinite 2s;
+          animation: circleMove 9s infinite 2s;
+  left: 891px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(15) {
-  -webkit-animation: circleMove 8s infinite 10s;
-          animation: circleMove 8s infinite 10s;
-  left: 1335px;
+  -webkit-animation: circleMove 9s infinite 4s;
+          animation: circleMove 9s infinite 4s;
+  left: 282px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(16) {
-  -webkit-animation: circleMove 8s infinite 8s;
-          animation: circleMove 8s infinite 8s;
-  left: 1539px;
+  -webkit-animation: circleMove 10s infinite 5s;
+          animation: circleMove 10s infinite 5s;
+  left: 245px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(17) {
-  -webkit-animation: circleMove 7s infinite 5s;
-          animation: circleMove 7s infinite 5s;
-  left: 433px;
+  -webkit-animation: circleMove 10s infinite 10s;
+          animation: circleMove 10s infinite 10s;
+  left: 55px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(18) {
-  -webkit-animation: circleMove 6s infinite 6s;
-          animation: circleMove 6s infinite 6s;
-  left: 99px;
+  -webkit-animation: circleMove 11s infinite 6s;
+          animation: circleMove 11s infinite 6s;
+  left: 1991px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(19) {
-  -webkit-animation: circleMove 8s infinite 3s;
-          animation: circleMove 8s infinite 3s;
-  left: 110px;
+  -webkit-animation: circleMove 11s infinite 10s;
+          animation: circleMove 11s infinite 10s;
+  left: 1922px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(20) {
-  -webkit-animation: circleMove 6s infinite 2s;
-          animation: circleMove 6s infinite 2s;
-  left: 928px;
+  -webkit-animation: circleMove 11s infinite 5s;
+          animation: circleMove 11s infinite 5s;
+  left: 1468px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(21) {
-  -webkit-animation: circleMove 8s infinite 8s;
-          animation: circleMove 8s infinite 8s;
-  left: 1125px;
+  -webkit-animation: circleMove 12s infinite 3s;
+          animation: circleMove 12s infinite 3s;
+  left: 248px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(22) {
-  -webkit-animation: circleMove 12s infinite 6s;
-          animation: circleMove 12s infinite 6s;
-  left: 1611px;
+  -webkit-animation: circleMove 7s infinite 4s;
+          animation: circleMove 7s infinite 4s;
+  left: 312px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(23) {
-  -webkit-animation: circleMove 6s infinite 4s;
-          animation: circleMove 6s infinite 4s;
-  left: 1158px;
+  -webkit-animation: circleMove 12s infinite 3s;
+          animation: circleMove 12s infinite 3s;
+  left: 793px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(24) {
-  -webkit-animation: circleMove 7s infinite 6s;
-          animation: circleMove 7s infinite 6s;
-  left: 1718px;
+  -webkit-animation: circleMove 7s infinite 10s;
+          animation: circleMove 7s infinite 10s;
+  left: 1191px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(25) {
-  -webkit-animation: circleMove 6s infinite 9s;
-          animation: circleMove 6s infinite 9s;
-  left: 1149px;
+  -webkit-animation: circleMove 9s infinite 4s;
+          animation: circleMove 9s infinite 4s;
+  left: 1444px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(26) {
-  -webkit-animation: circleMove 9s infinite 9s;
-          animation: circleMove 9s infinite 9s;
-  left: 199px;
+  -webkit-animation: circleMove 11s infinite 5s;
+          animation: circleMove 11s infinite 5s;
+  left: 1492px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(27) {
-  -webkit-animation: circleMove 6s infinite 6s;
-          animation: circleMove 6s infinite 6s;
-  left: 1578px;
+  -webkit-animation: circleMove 7s infinite 7s;
+          animation: circleMove 7s infinite 7s;
+  left: 122px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(28) {
-  -webkit-animation: circleMove 6s infinite 3s;
-          animation: circleMove 6s infinite 3s;
-  left: 1791px;
+  -webkit-animation: circleMove 8s infinite 5s;
+          animation: circleMove 8s infinite 5s;
+  left: 1630px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(29) {
-  -webkit-animation: circleMove 10s infinite 1s;
-          animation: circleMove 10s infinite 1s;
-  left: 1362px;
+  -webkit-animation: circleMove 6s infinite 4s;
+          animation: circleMove 6s infinite 4s;
+  left: 485px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(30) {
-  -webkit-animation: circleMove 9s infinite 9s;
-          animation: circleMove 9s infinite 9s;
-  left: 1078px;
+  -webkit-animation: circleMove 6s infinite 7s;
+          animation: circleMove 6s infinite 7s;
+  left: 784px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(31) {
-  -webkit-animation: circleMove 12s infinite 9s;
-          animation: circleMove 12s infinite 9s;
-  left: 1579px;
+  -webkit-animation: circleMove 7s infinite 6s;
+          animation: circleMove 7s infinite 6s;
+  left: 394px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(32) {
-  -webkit-animation: circleMove 10s infinite 6s;
-          animation: circleMove 10s infinite 6s;
-  left: 1429px;
+  -webkit-animation: circleMove 6s infinite 4s;
+          animation: circleMove 6s infinite 4s;
+  left: 1367px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(33) {
-  -webkit-animation: circleMove 12s infinite 3s;
-          animation: circleMove 12s infinite 3s;
-  left: 1127px;
+  -webkit-animation: circleMove 6s infinite 8s;
+          animation: circleMove 6s infinite 8s;
+  left: 1983px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(34) {
-  -webkit-animation: circleMove 11s infinite 5s;
-          animation: circleMove 11s infinite 5s;
-  left: 995px;
+  -webkit-animation: circleMove 11s infinite 3s;
+          animation: circleMove 11s infinite 3s;
+  left: 1021px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(35) {
-  -webkit-animation: circleMove 11s infinite 2s;
-          animation: circleMove 11s infinite 2s;
-  left: 471px;
+  -webkit-animation: circleMove 6s infinite 6s;
+          animation: circleMove 6s infinite 6s;
+  left: 129px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(36) {
-  -webkit-animation: circleMove 10s infinite 10s;
-          animation: circleMove 10s infinite 10s;
-  left: 961px;
+  -webkit-animation: circleMove 11s infinite 1s;
+          animation: circleMove 11s infinite 1s;
+  left: 981px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(37) {
-  -webkit-animation: circleMove 6s infinite 9s;
-          animation: circleMove 6s infinite 9s;
-  left: 316px;
+  -webkit-animation: circleMove 6s infinite 1s;
+          animation: circleMove 6s infinite 1s;
+  left: 591px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(38) {
-  -webkit-animation: circleMove 10s infinite 6s;
-          animation: circleMove 10s infinite 6s;
-  left: 1930px;
+  -webkit-animation: circleMove 10s infinite 7s;
+          animation: circleMove 10s infinite 7s;
+  left: 1224px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(39) {
-  -webkit-animation: circleMove 12s infinite 5s;
-          animation: circleMove 12s infinite 5s;
-  left: 1188px;
+  -webkit-animation: circleMove 9s infinite 2s;
+          animation: circleMove 9s infinite 2s;
+  left: 840px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(40) {
-  -webkit-animation: circleMove 11s infinite 4s;
-          animation: circleMove 11s infinite 4s;
-  left: 668px;
+  -webkit-animation: circleMove 12s infinite 3s;
+          animation: circleMove 12s infinite 3s;
+  left: 1340px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(41) {
-  -webkit-animation: circleMove 12s infinite 1s;
-          animation: circleMove 12s infinite 1s;
-  left: 361px;
+  -webkit-animation: circleMove 9s infinite 6s;
+          animation: circleMove 9s infinite 6s;
+  left: 622px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(42) {
-  -webkit-animation: circleMove 9s infinite 4s;
-          animation: circleMove 9s infinite 4s;
-  left: 819px;
+  -webkit-animation: circleMove 8s infinite 7s;
+          animation: circleMove 8s infinite 7s;
+  left: 1210px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(43) {
-  -webkit-animation: circleMove 9s infinite 5s;
-          animation: circleMove 9s infinite 5s;
-  left: 640px;
+  -webkit-animation: circleMove 6s infinite 8s;
+          animation: circleMove 6s infinite 8s;
+  left: 221px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(44) {
-  -webkit-animation: circleMove 9s infinite 7s;
-          animation: circleMove 9s infinite 7s;
-  left: 1611px;
+  -webkit-animation: circleMove 9s infinite 10s;
+          animation: circleMove 9s infinite 10s;
+  left: 1624px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
@@ -2667,52 +2667,52 @@ body main .aboutUs .intro .circle:nth-child(44) {
 body main .aboutUs .intro .circle:nth-child(45) {
   -webkit-animation: circleMove 11s infinite 4s;
           animation: circleMove 11s infinite 4s;
-  left: 839px;
+  left: 858px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(46) {
-  -webkit-animation: circleMove 11s infinite 6s;
-          animation: circleMove 11s infinite 6s;
-  left: 1668px;
+  -webkit-animation: circleMove 10s infinite 6s;
+          animation: circleMove 10s infinite 6s;
+  left: 189px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(47) {
-  -webkit-animation: circleMove 10s infinite 2s;
-          animation: circleMove 10s infinite 2s;
-  left: 1154px;
+  -webkit-animation: circleMove 12s infinite 4s;
+          animation: circleMove 12s infinite 4s;
+  left: 1682px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(48) {
-  -webkit-animation: circleMove 6s infinite 10s;
-          animation: circleMove 6s infinite 10s;
-  left: 821px;
+  -webkit-animation: circleMove 10s infinite 6s;
+          animation: circleMove 10s infinite 6s;
+  left: 1383px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(49) {
-  -webkit-animation: circleMove 10s infinite 9s;
-          animation: circleMove 10s infinite 9s;
-  left: 872px;
+  -webkit-animation: circleMove 9s infinite 9s;
+          animation: circleMove 9s infinite 9s;
+  left: 866px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .aboutUs .intro .circle:nth-child(50) {
-  -webkit-animation: circleMove 11s infinite 6s;
-          animation: circleMove 11s infinite 6s;
-  left: 1939px;
+  -webkit-animation: circleMove 8s infinite 2s;
+          animation: circleMove 8s infinite 2s;
+  left: 857px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
@@ -3170,450 +3170,450 @@ body main .tellUs .intro .circle:hover {
 }
 
 body main .tellUs .intro .circle:nth-child(1) {
-  -webkit-animation: circleMove 8s infinite 3s;
-          animation: circleMove 8s infinite 3s;
-  left: 1153px;
+  -webkit-animation: circleMove 12s infinite 9s;
+          animation: circleMove 12s infinite 9s;
+  left: 1473px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .tellUs .intro .circle:nth-child(2) {
-  -webkit-animation: circleMove 8s infinite 1s;
-          animation: circleMove 8s infinite 1s;
-  left: 1319px;
+  -webkit-animation: circleMove 11s infinite 3s;
+          animation: circleMove 11s infinite 3s;
+  left: 725px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .tellUs .intro .circle:nth-child(3) {
-  -webkit-animation: circleMove 7s infinite 6s;
-          animation: circleMove 7s infinite 6s;
-  left: 838px;
-  width: 40px;
-  height: 40px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(4) {
-  -webkit-animation: circleMove 10s infinite 6s;
-          animation: circleMove 10s infinite 6s;
-  left: 1911px;
-  width: 10px;
-  height: 10px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(5) {
-  -webkit-animation: circleMove 7s infinite 3s;
-          animation: circleMove 7s infinite 3s;
-  left: 1042px;
-  width: 40px;
-  height: 40px;
-  opacity: 1;
-}
-
-body main .tellUs .intro .circle:nth-child(6) {
-  -webkit-animation: circleMove 10s infinite 3s;
-          animation: circleMove 10s infinite 3s;
-  left: 155px;
-  width: 10px;
-  height: 10px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(7) {
-  -webkit-animation: circleMove 8s infinite 7s;
-          animation: circleMove 8s infinite 7s;
-  left: 1671px;
-  width: 40px;
-  height: 40px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(8) {
-  -webkit-animation: circleMove 12s infinite 8s;
-          animation: circleMove 12s infinite 8s;
-  left: 1075px;
-  width: 10px;
-  height: 10px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(9) {
-  -webkit-animation: circleMove 11s infinite 6s;
-          animation: circleMove 11s infinite 6s;
-  left: 1546px;
-  width: 40px;
-  height: 40px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(10) {
-  -webkit-animation: circleMove 10s infinite 2s;
-          animation: circleMove 10s infinite 2s;
-  left: 1344px;
-  width: 10px;
-  height: 10px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(11) {
-  -webkit-animation: circleMove 11s infinite 10s;
-          animation: circleMove 11s infinite 10s;
-  left: 571px;
-  width: 40px;
-  height: 40px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(12) {
-  -webkit-animation: circleMove 12s infinite 7s;
-          animation: circleMove 12s infinite 7s;
-  left: 1374px;
-  width: 10px;
-  height: 10px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(13) {
-  -webkit-animation: circleMove 7s infinite 2s;
-          animation: circleMove 7s infinite 2s;
-  left: 1744px;
-  width: 40px;
-  height: 40px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(14) {
-  -webkit-animation: circleMove 6s infinite 8s;
-          animation: circleMove 6s infinite 8s;
-  left: 599px;
-  width: 10px;
-  height: 10px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(15) {
-  -webkit-animation: circleMove 9s infinite 6s;
-          animation: circleMove 9s infinite 6s;
-  left: 1536px;
-  width: 40px;
-  height: 40px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(16) {
-  -webkit-animation: circleMove 6s infinite 7s;
-          animation: circleMove 6s infinite 7s;
-  left: 799px;
-  width: 10px;
-  height: 10px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(17) {
-  -webkit-animation: circleMove 7s infinite 7s;
-          animation: circleMove 7s infinite 7s;
-  left: 1433px;
-  width: 40px;
-  height: 40px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(18) {
   -webkit-animation: circleMove 11s infinite 2s;
           animation: circleMove 11s infinite 2s;
-  left: 1446px;
-  width: 10px;
-  height: 10px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(19) {
-  -webkit-animation: circleMove 6s infinite 2s;
-          animation: circleMove 6s infinite 2s;
-  left: 1992px;
-  width: 40px;
-  height: 40px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(20) {
-  -webkit-animation: circleMove 9s infinite 7s;
-          animation: circleMove 9s infinite 7s;
-  left: 27px;
-  width: 10px;
-  height: 10px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(21) {
-  -webkit-animation: circleMove 7s infinite 9s;
-          animation: circleMove 7s infinite 9s;
-  left: 188px;
-  width: 40px;
-  height: 40px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(22) {
-  -webkit-animation: circleMove 8s infinite 1s;
-          animation: circleMove 8s infinite 1s;
-  left: 1222px;
-  width: 10px;
-  height: 10px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(23) {
-  -webkit-animation: circleMove 11s infinite 7s;
-          animation: circleMove 11s infinite 7s;
-  left: 1125px;
-  width: 40px;
-  height: 40px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(24) {
-  -webkit-animation: circleMove 12s infinite 2s;
-          animation: circleMove 12s infinite 2s;
-  left: 663px;
-  width: 10px;
-  height: 10px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(25) {
-  -webkit-animation: circleMove 12s infinite 6s;
-          animation: circleMove 12s infinite 6s;
-  left: 1929px;
-  width: 40px;
-  height: 40px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(26) {
-  -webkit-animation: circleMove 8s infinite 5s;
-          animation: circleMove 8s infinite 5s;
-  left: 934px;
-  width: 10px;
-  height: 10px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(27) {
-  -webkit-animation: circleMove 11s infinite 8s;
-          animation: circleMove 11s infinite 8s;
-  left: 47px;
-  width: 40px;
-  height: 40px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(28) {
-  -webkit-animation: circleMove 6s infinite 9s;
-          animation: circleMove 6s infinite 9s;
-  left: 1504px;
-  width: 10px;
-  height: 10px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(29) {
-  -webkit-animation: circleMove 8s infinite 6s;
-          animation: circleMove 8s infinite 6s;
-  left: 746px;
-  width: 40px;
-  height: 40px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(30) {
-  -webkit-animation: circleMove 6s infinite 1s;
-          animation: circleMove 6s infinite 1s;
-  left: 183px;
-  width: 10px;
-  height: 10px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(31) {
-  -webkit-animation: circleMove 9s infinite 6s;
-          animation: circleMove 9s infinite 6s;
-  left: 168px;
-  width: 40px;
-  height: 40px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(32) {
-  -webkit-animation: circleMove 12s infinite 9s;
-          animation: circleMove 12s infinite 9s;
-  left: 100px;
-  width: 10px;
-  height: 10px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(33) {
-  -webkit-animation: circleMove 9s infinite 4s;
-          animation: circleMove 9s infinite 4s;
-  left: 175px;
-  width: 40px;
-  height: 40px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(34) {
-  -webkit-animation: circleMove 12s infinite 10s;
-          animation: circleMove 12s infinite 10s;
-  left: 816px;
-  width: 10px;
-  height: 10px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(35) {
-  -webkit-animation: circleMove 7s infinite 5s;
-          animation: circleMove 7s infinite 5s;
-  left: 192px;
-  width: 40px;
-  height: 40px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(36) {
-  -webkit-animation: circleMove 10s infinite 6s;
-          animation: circleMove 10s infinite 6s;
-  left: 373px;
-  width: 10px;
-  height: 10px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(37) {
-  -webkit-animation: circleMove 9s infinite 4s;
-          animation: circleMove 9s infinite 4s;
-  left: 333px;
-  width: 40px;
-  height: 40px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(38) {
-  -webkit-animation: circleMove 7s infinite 7s;
-          animation: circleMove 7s infinite 7s;
-  left: 998px;
-  width: 10px;
-  height: 10px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(39) {
-  -webkit-animation: circleMove 6s infinite 7s;
-          animation: circleMove 6s infinite 7s;
-  left: 896px;
-  width: 40px;
-  height: 40px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(40) {
-  -webkit-animation: circleMove 6s infinite 2s;
-          animation: circleMove 6s infinite 2s;
-  left: 293px;
-  width: 10px;
-  height: 10px;
-  opacity: 0.2;
-}
-
-body main .tellUs .intro .circle:nth-child(41) {
-  -webkit-animation: circleMove 10s infinite 4s;
-          animation: circleMove 10s infinite 4s;
   left: 748px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
-body main .tellUs .intro .circle:nth-child(42) {
+body main .tellUs .intro .circle:nth-child(4) {
+  -webkit-animation: circleMove 8s infinite 2s;
+          animation: circleMove 8s infinite 2s;
+  left: 104px;
+  width: 10px;
+  height: 10px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(5) {
+  -webkit-animation: circleMove 10s infinite 5s;
+          animation: circleMove 10s infinite 5s;
+  left: 1618px;
+  width: 40px;
+  height: 40px;
+  opacity: 1;
+}
+
+body main .tellUs .intro .circle:nth-child(6) {
+  -webkit-animation: circleMove 8s infinite 3s;
+          animation: circleMove 8s infinite 3s;
+  left: 1199px;
+  width: 10px;
+  height: 10px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(7) {
+  -webkit-animation: circleMove 7s infinite 9s;
+          animation: circleMove 7s infinite 9s;
+  left: 1743px;
+  width: 40px;
+  height: 40px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(8) {
+  -webkit-animation: circleMove 6s infinite 2s;
+          animation: circleMove 6s infinite 2s;
+  left: 762px;
+  width: 10px;
+  height: 10px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(9) {
+  -webkit-animation: circleMove 9s infinite 10s;
+          animation: circleMove 9s infinite 10s;
+  left: 1342px;
+  width: 40px;
+  height: 40px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(10) {
+  -webkit-animation: circleMove 12s infinite 10s;
+          animation: circleMove 12s infinite 10s;
+  left: 794px;
+  width: 10px;
+  height: 10px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(11) {
+  -webkit-animation: circleMove 9s infinite 6s;
+          animation: circleMove 9s infinite 6s;
+  left: 1907px;
+  width: 40px;
+  height: 40px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(12) {
+  -webkit-animation: circleMove 12s infinite 6s;
+          animation: circleMove 12s infinite 6s;
+  left: 59px;
+  width: 10px;
+  height: 10px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(13) {
+  -webkit-animation: circleMove 9s infinite 7s;
+          animation: circleMove 9s infinite 7s;
+  left: 1461px;
+  width: 40px;
+  height: 40px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(14) {
+  -webkit-animation: circleMove 9s infinite 1s;
+          animation: circleMove 9s infinite 1s;
+  left: 1847px;
+  width: 10px;
+  height: 10px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(15) {
+  -webkit-animation: circleMove 7s infinite 9s;
+          animation: circleMove 7s infinite 9s;
+  left: 353px;
+  width: 40px;
+  height: 40px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(16) {
+  -webkit-animation: circleMove 9s infinite 4s;
+          animation: circleMove 9s infinite 4s;
+  left: 854px;
+  width: 10px;
+  height: 10px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(17) {
+  -webkit-animation: circleMove 12s infinite 8s;
+          animation: circleMove 12s infinite 8s;
+  left: 1415px;
+  width: 40px;
+  height: 40px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(18) {
+  -webkit-animation: circleMove 6s infinite 10s;
+          animation: circleMove 6s infinite 10s;
+  left: 801px;
+  width: 10px;
+  height: 10px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(19) {
+  -webkit-animation: circleMove 9s infinite 10s;
+          animation: circleMove 9s infinite 10s;
+  left: 1576px;
+  width: 40px;
+  height: 40px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(20) {
   -webkit-animation: circleMove 7s infinite 4s;
           animation: circleMove 7s infinite 4s;
-  left: 497px;
+  left: 592px;
+  width: 10px;
+  height: 10px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(21) {
+  -webkit-animation: circleMove 11s infinite 10s;
+          animation: circleMove 11s infinite 10s;
+  left: 1443px;
+  width: 40px;
+  height: 40px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(22) {
+  -webkit-animation: circleMove 11s infinite 1s;
+          animation: circleMove 11s infinite 1s;
+  left: 41px;
+  width: 10px;
+  height: 10px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(23) {
+  -webkit-animation: circleMove 6s infinite 6s;
+          animation: circleMove 6s infinite 6s;
+  left: 393px;
+  width: 40px;
+  height: 40px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(24) {
+  -webkit-animation: circleMove 9s infinite 2s;
+          animation: circleMove 9s infinite 2s;
+  left: 1399px;
+  width: 10px;
+  height: 10px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(25) {
+  -webkit-animation: circleMove 8s infinite 6s;
+          animation: circleMove 8s infinite 6s;
+  left: 860px;
+  width: 40px;
+  height: 40px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(26) {
+  -webkit-animation: circleMove 7s infinite 5s;
+          animation: circleMove 7s infinite 5s;
+  left: 531px;
+  width: 10px;
+  height: 10px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(27) {
+  -webkit-animation: circleMove 9s infinite 8s;
+          animation: circleMove 9s infinite 8s;
+  left: 1914px;
+  width: 40px;
+  height: 40px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(28) {
+  -webkit-animation: circleMove 11s infinite 6s;
+          animation: circleMove 11s infinite 6s;
+  left: 1049px;
+  width: 10px;
+  height: 10px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(29) {
+  -webkit-animation: circleMove 10s infinite 8s;
+          animation: circleMove 10s infinite 8s;
+  left: 896px;
+  width: 40px;
+  height: 40px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(30) {
+  -webkit-animation: circleMove 12s infinite 5s;
+          animation: circleMove 12s infinite 5s;
+  left: 176px;
+  width: 10px;
+  height: 10px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(31) {
+  -webkit-animation: circleMove 8s infinite 5s;
+          animation: circleMove 8s infinite 5s;
+  left: 835px;
+  width: 40px;
+  height: 40px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(32) {
+  -webkit-animation: circleMove 6s infinite 10s;
+          animation: circleMove 6s infinite 10s;
+  left: 1282px;
+  width: 10px;
+  height: 10px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(33) {
+  -webkit-animation: circleMove 11s infinite 5s;
+          animation: circleMove 11s infinite 5s;
+  left: 1977px;
+  width: 40px;
+  height: 40px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(34) {
+  -webkit-animation: circleMove 7s infinite 8s;
+          animation: circleMove 7s infinite 8s;
+  left: 159px;
+  width: 10px;
+  height: 10px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(35) {
+  -webkit-animation: circleMove 6s infinite 10s;
+          animation: circleMove 6s infinite 10s;
+  left: 980px;
+  width: 40px;
+  height: 40px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(36) {
+  -webkit-animation: circleMove 9s infinite 10s;
+          animation: circleMove 9s infinite 10s;
+  left: 1754px;
+  width: 10px;
+  height: 10px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(37) {
+  -webkit-animation: circleMove 7s infinite 3s;
+          animation: circleMove 7s infinite 3s;
+  left: 1280px;
+  width: 40px;
+  height: 40px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(38) {
+  -webkit-animation: circleMove 11s infinite 8s;
+          animation: circleMove 11s infinite 8s;
+  left: 1645px;
+  width: 10px;
+  height: 10px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(39) {
+  -webkit-animation: circleMove 11s infinite 9s;
+          animation: circleMove 11s infinite 9s;
+  left: 1705px;
+  width: 40px;
+  height: 40px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(40) {
+  -webkit-animation: circleMove 7s infinite 6s;
+          animation: circleMove 7s infinite 6s;
+  left: 1364px;
+  width: 10px;
+  height: 10px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(41) {
+  -webkit-animation: circleMove 6s infinite 4s;
+          animation: circleMove 6s infinite 4s;
+  left: 575px;
+  width: 40px;
+  height: 40px;
+  opacity: 0.2;
+}
+
+body main .tellUs .intro .circle:nth-child(42) {
+  -webkit-animation: circleMove 6s infinite 8s;
+          animation: circleMove 6s infinite 8s;
+  left: 1913px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .tellUs .intro .circle:nth-child(43) {
-  -webkit-animation: circleMove 11s infinite 5s;
-          animation: circleMove 11s infinite 5s;
-  left: 1053px;
+  -webkit-animation: circleMove 9s infinite 10s;
+          animation: circleMove 9s infinite 10s;
+  left: 1035px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .tellUs .intro .circle:nth-child(44) {
-  -webkit-animation: circleMove 10s infinite 2s;
-          animation: circleMove 10s infinite 2s;
-  left: 1117px;
+  -webkit-animation: circleMove 7s infinite 9s;
+          animation: circleMove 7s infinite 9s;
+  left: 951px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .tellUs .intro .circle:nth-child(45) {
-  -webkit-animation: circleMove 11s infinite 4s;
-          animation: circleMove 11s infinite 4s;
-  left: 906px;
+  -webkit-animation: circleMove 6s infinite 10s;
+          animation: circleMove 6s infinite 10s;
+  left: 362px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .tellUs .intro .circle:nth-child(46) {
-  -webkit-animation: circleMove 12s infinite 6s;
-          animation: circleMove 12s infinite 6s;
-  left: 248px;
+  -webkit-animation: circleMove 10s infinite 1s;
+          animation: circleMove 10s infinite 1s;
+  left: 1649px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .tellUs .intro .circle:nth-child(47) {
-  -webkit-animation: circleMove 12s infinite 4s;
-          animation: circleMove 12s infinite 4s;
-  left: 1449px;
+  -webkit-animation: circleMove 8s infinite 9s;
+          animation: circleMove 8s infinite 9s;
+  left: 826px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .tellUs .intro .circle:nth-child(48) {
-  -webkit-animation: circleMove 8s infinite 4s;
-          animation: circleMove 8s infinite 4s;
-  left: 1935px;
+  -webkit-animation: circleMove 9s infinite 7s;
+          animation: circleMove 9s infinite 7s;
+  left: 1102px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .tellUs .intro .circle:nth-child(49) {
-  -webkit-animation: circleMove 10s infinite 2s;
-          animation: circleMove 10s infinite 2s;
-  left: 53px;
+  -webkit-animation: circleMove 9s infinite 9s;
+          animation: circleMove 9s infinite 9s;
+  left: 1217px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .tellUs .intro .circle:nth-child(50) {
-  -webkit-animation: circleMove 6s infinite 7s;
-          animation: circleMove 6s infinite 7s;
-  left: 1833px;
+  -webkit-animation: circleMove 8s infinite 5s;
+          animation: circleMove 8s infinite 5s;
+  left: 1398px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
@@ -3976,216 +3976,216 @@ body main .career .intro .circle:hover {
 }
 
 body main .career .intro .circle:nth-child(1) {
-  -webkit-animation: circleMove 7s infinite 5s;
-          animation: circleMove 7s infinite 5s;
-  left: 1668px;
+  -webkit-animation: circleMove 6s infinite 9s;
+          animation: circleMove 6s infinite 9s;
+  left: 1443px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(2) {
-  -webkit-animation: circleMove 11s infinite 8s;
-          animation: circleMove 11s infinite 8s;
-  left: 1569px;
+  -webkit-animation: circleMove 12s infinite 3s;
+          animation: circleMove 12s infinite 3s;
+  left: 262px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(3) {
-  -webkit-animation: circleMove 9s infinite 2s;
-          animation: circleMove 9s infinite 2s;
-  left: 329px;
+  -webkit-animation: circleMove 6s infinite 4s;
+          animation: circleMove 6s infinite 4s;
+  left: 1250px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(4) {
-  -webkit-animation: circleMove 6s infinite 9s;
-          animation: circleMove 6s infinite 9s;
-  left: 1307px;
+  -webkit-animation: circleMove 9s infinite 3s;
+          animation: circleMove 9s infinite 3s;
+  left: 1355px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(5) {
-  -webkit-animation: circleMove 6s infinite 5s;
-          animation: circleMove 6s infinite 5s;
-  left: 1659px;
+  -webkit-animation: circleMove 9s infinite 7s;
+          animation: circleMove 9s infinite 7s;
+  left: 1322px;
   width: 40px;
   height: 40px;
   opacity: 1;
 }
 
 body main .career .intro .circle:nth-child(6) {
-  -webkit-animation: circleMove 10s infinite 10s;
-          animation: circleMove 10s infinite 10s;
-  left: 1930px;
+  -webkit-animation: circleMove 8s infinite 3s;
+          animation: circleMove 8s infinite 3s;
+  left: 705px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(7) {
-  -webkit-animation: circleMove 8s infinite 7s;
-          animation: circleMove 8s infinite 7s;
-  left: 1307px;
+  -webkit-animation: circleMove 7s infinite 8s;
+          animation: circleMove 7s infinite 8s;
+  left: 1825px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(8) {
-  -webkit-animation: circleMove 12s infinite 1s;
-          animation: circleMove 12s infinite 1s;
-  left: 796px;
+  -webkit-animation: circleMove 6s infinite 3s;
+          animation: circleMove 6s infinite 3s;
+  left: 1803px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(9) {
-  -webkit-animation: circleMove 12s infinite 6s;
-          animation: circleMove 12s infinite 6s;
-  left: 110px;
+  -webkit-animation: circleMove 10s infinite 8s;
+          animation: circleMove 10s infinite 8s;
+  left: 840px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(10) {
-  -webkit-animation: circleMove 9s infinite 3s;
-          animation: circleMove 9s infinite 3s;
-  left: 79px;
+  -webkit-animation: circleMove 9s infinite 1s;
+          animation: circleMove 9s infinite 1s;
+  left: 557px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(11) {
-  -webkit-animation: circleMove 12s infinite 10s;
-          animation: circleMove 12s infinite 10s;
-  left: 810px;
+  -webkit-animation: circleMove 6s infinite 7s;
+          animation: circleMove 6s infinite 7s;
+  left: 1289px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(12) {
-  -webkit-animation: circleMove 6s infinite 3s;
-          animation: circleMove 6s infinite 3s;
-  left: 1120px;
+  -webkit-animation: circleMove 10s infinite 5s;
+          animation: circleMove 10s infinite 5s;
+  left: 49px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(13) {
-  -webkit-animation: circleMove 12s infinite 10s;
-          animation: circleMove 12s infinite 10s;
-  left: 1807px;
+  -webkit-animation: circleMove 9s infinite 2s;
+          animation: circleMove 9s infinite 2s;
+  left: 567px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(14) {
-  -webkit-animation: circleMove 7s infinite 9s;
-          animation: circleMove 7s infinite 9s;
-  left: 1586px;
+  -webkit-animation: circleMove 9s infinite 1s;
+          animation: circleMove 9s infinite 1s;
+  left: 323px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(15) {
-  -webkit-animation: circleMove 12s infinite 1s;
-          animation: circleMove 12s infinite 1s;
-  left: 1258px;
+  -webkit-animation: circleMove 12s infinite 7s;
+          animation: circleMove 12s infinite 7s;
+  left: 1696px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(16) {
-  -webkit-animation: circleMove 12s infinite 4s;
-          animation: circleMove 12s infinite 4s;
-  left: 1606px;
+  -webkit-animation: circleMove 7s infinite 1s;
+          animation: circleMove 7s infinite 1s;
+  left: 1704px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(17) {
-  -webkit-animation: circleMove 8s infinite 3s;
-          animation: circleMove 8s infinite 3s;
-  left: 230px;
+  -webkit-animation: circleMove 10s infinite 1s;
+          animation: circleMove 10s infinite 1s;
+  left: 705px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(18) {
-  -webkit-animation: circleMove 8s infinite 4s;
-          animation: circleMove 8s infinite 4s;
-  left: 524px;
+  -webkit-animation: circleMove 6s infinite 3s;
+          animation: circleMove 6s infinite 3s;
+  left: 903px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(19) {
-  -webkit-animation: circleMove 6s infinite 8s;
-          animation: circleMove 6s infinite 8s;
-  left: 735px;
+  -webkit-animation: circleMove 8s infinite 9s;
+          animation: circleMove 8s infinite 9s;
+  left: 1858px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(20) {
-  -webkit-animation: circleMove 8s infinite 9s;
-          animation: circleMove 8s infinite 9s;
-  left: 528px;
+  -webkit-animation: circleMove 9s infinite 8s;
+          animation: circleMove 9s infinite 8s;
+  left: 1106px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(21) {
-  -webkit-animation: circleMove 12s infinite 10s;
-          animation: circleMove 12s infinite 10s;
-  left: 414px;
+  -webkit-animation: circleMove 11s infinite 5s;
+          animation: circleMove 11s infinite 5s;
+  left: 901px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(22) {
-  -webkit-animation: circleMove 6s infinite 3s;
-          animation: circleMove 6s infinite 3s;
-  left: 162px;
+  -webkit-animation: circleMove 12s infinite 10s;
+          animation: circleMove 12s infinite 10s;
+  left: 846px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(23) {
-  -webkit-animation: circleMove 8s infinite 8s;
-          animation: circleMove 8s infinite 8s;
-  left: 1148px;
+  -webkit-animation: circleMove 11s infinite 6s;
+          animation: circleMove 11s infinite 6s;
+  left: 995px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(24) {
-  -webkit-animation: circleMove 12s infinite 1s;
-          animation: circleMove 12s infinite 1s;
-  left: 884px;
+  -webkit-animation: circleMove 9s infinite 4s;
+          animation: circleMove 9s infinite 4s;
+  left: 1975px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
@@ -4194,232 +4194,232 @@ body main .career .intro .circle:nth-child(24) {
 body main .career .intro .circle:nth-child(25) {
   -webkit-animation: circleMove 9s infinite 5s;
           animation: circleMove 9s infinite 5s;
-  left: 312px;
+  left: 1758px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(26) {
-  -webkit-animation: circleMove 7s infinite 7s;
-          animation: circleMove 7s infinite 7s;
-  left: 1244px;
+  -webkit-animation: circleMove 8s infinite 6s;
+          animation: circleMove 8s infinite 6s;
+  left: 59px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(27) {
-  -webkit-animation: circleMove 12s infinite 5s;
-          animation: circleMove 12s infinite 5s;
-  left: 1090px;
+  -webkit-animation: circleMove 9s infinite 1s;
+          animation: circleMove 9s infinite 1s;
+  left: 184px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(28) {
-  -webkit-animation: circleMove 6s infinite 1s;
-          animation: circleMove 6s infinite 1s;
-  left: 382px;
+  -webkit-animation: circleMove 8s infinite 4s;
+          animation: circleMove 8s infinite 4s;
+  left: 579px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(29) {
-  -webkit-animation: circleMove 6s infinite 10s;
-          animation: circleMove 6s infinite 10s;
-  left: 377px;
+  -webkit-animation: circleMove 9s infinite 1s;
+          animation: circleMove 9s infinite 1s;
+  left: 1010px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(30) {
-  -webkit-animation: circleMove 11s infinite 5s;
-          animation: circleMove 11s infinite 5s;
-  left: 501px;
+  -webkit-animation: circleMove 9s infinite 9s;
+          animation: circleMove 9s infinite 9s;
+  left: 1805px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(31) {
-  -webkit-animation: circleMove 8s infinite 4s;
-          animation: circleMove 8s infinite 4s;
-  left: 995px;
+  -webkit-animation: circleMove 6s infinite 5s;
+          animation: circleMove 6s infinite 5s;
+  left: 853px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(32) {
-  -webkit-animation: circleMove 10s infinite 10s;
-          animation: circleMove 10s infinite 10s;
-  left: 144px;
+  -webkit-animation: circleMove 7s infinite 1s;
+          animation: circleMove 7s infinite 1s;
+  left: 622px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(33) {
-  -webkit-animation: circleMove 10s infinite 7s;
-          animation: circleMove 10s infinite 7s;
-  left: 1242px;
+  -webkit-animation: circleMove 10s infinite 5s;
+          animation: circleMove 10s infinite 5s;
+  left: 1247px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(34) {
-  -webkit-animation: circleMove 12s infinite 10s;
-          animation: circleMove 12s infinite 10s;
-  left: 77px;
+  -webkit-animation: circleMove 8s infinite 10s;
+          animation: circleMove 8s infinite 10s;
+  left: 1205px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(35) {
-  -webkit-animation: circleMove 12s infinite 7s;
-          animation: circleMove 12s infinite 7s;
-  left: 1041px;
+  -webkit-animation: circleMove 10s infinite 9s;
+          animation: circleMove 10s infinite 9s;
+  left: 1672px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(36) {
-  -webkit-animation: circleMove 8s infinite 5s;
-          animation: circleMove 8s infinite 5s;
-  left: 1140px;
+  -webkit-animation: circleMove 9s infinite 4s;
+          animation: circleMove 9s infinite 4s;
+  left: 453px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(37) {
-  -webkit-animation: circleMove 11s infinite 4s;
-          animation: circleMove 11s infinite 4s;
-  left: 1068px;
+  -webkit-animation: circleMove 12s infinite 3s;
+          animation: circleMove 12s infinite 3s;
+  left: 1431px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(38) {
-  -webkit-animation: circleMove 11s infinite 8s;
-          animation: circleMove 11s infinite 8s;
-  left: 475px;
+  -webkit-animation: circleMove 8s infinite 1s;
+          animation: circleMove 8s infinite 1s;
+  left: 1221px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(39) {
-  -webkit-animation: circleMove 11s infinite 7s;
-          animation: circleMove 11s infinite 7s;
-  left: 1637px;
+  -webkit-animation: circleMove 12s infinite 8s;
+          animation: circleMove 12s infinite 8s;
+  left: 1386px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(40) {
-  -webkit-animation: circleMove 8s infinite 10s;
-          animation: circleMove 8s infinite 10s;
-  left: 1684px;
+  -webkit-animation: circleMove 8s infinite 3s;
+          animation: circleMove 8s infinite 3s;
+  left: 159px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(41) {
-  -webkit-animation: circleMove 11s infinite 4s;
-          animation: circleMove 11s infinite 4s;
-  left: 580px;
+  -webkit-animation: circleMove 8s infinite 9s;
+          animation: circleMove 8s infinite 9s;
+  left: 1977px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(42) {
-  -webkit-animation: circleMove 6s infinite 2s;
-          animation: circleMove 6s infinite 2s;
-  left: 725px;
+  -webkit-animation: circleMove 9s infinite 7s;
+          animation: circleMove 9s infinite 7s;
+  left: 1938px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(43) {
-  -webkit-animation: circleMove 11s infinite 4s;
-          animation: circleMove 11s infinite 4s;
-  left: 1568px;
+  -webkit-animation: circleMove 9s infinite 6s;
+          animation: circleMove 9s infinite 6s;
+  left: 506px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(44) {
-  -webkit-animation: circleMove 7s infinite 4s;
-          animation: circleMove 7s infinite 4s;
-  left: 1088px;
+  -webkit-animation: circleMove 6s infinite 10s;
+          animation: circleMove 6s infinite 10s;
+  left: 875px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(45) {
-  -webkit-animation: circleMove 6s infinite 4s;
-          animation: circleMove 6s infinite 4s;
-  left: 1793px;
+  -webkit-animation: circleMove 11s infinite 2s;
+          animation: circleMove 11s infinite 2s;
+  left: 882px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(46) {
-  -webkit-animation: circleMove 6s infinite 4s;
-          animation: circleMove 6s infinite 4s;
-  left: 1000px;
+  -webkit-animation: circleMove 7s infinite 5s;
+          animation: circleMove 7s infinite 5s;
+  left: 520px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(47) {
-  -webkit-animation: circleMove 6s infinite 3s;
-          animation: circleMove 6s infinite 3s;
-  left: 89px;
+  -webkit-animation: circleMove 10s infinite 4s;
+          animation: circleMove 10s infinite 4s;
+  left: 1289px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(48) {
-  -webkit-animation: circleMove 12s infinite 6s;
-          animation: circleMove 12s infinite 6s;
-  left: 1524px;
+  -webkit-animation: circleMove 10s infinite 7s;
+          animation: circleMove 10s infinite 7s;
+  left: 607px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(49) {
-  -webkit-animation: circleMove 9s infinite 9s;
-          animation: circleMove 9s infinite 9s;
-  left: 1418px;
+  -webkit-animation: circleMove 9s infinite 7s;
+          animation: circleMove 9s infinite 7s;
+  left: 871px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .career .intro .circle:nth-child(50) {
-  -webkit-animation: circleMove 12s infinite 5s;
-          animation: circleMove 12s infinite 5s;
-  left: 43px;
+  -webkit-animation: circleMove 8s infinite 5s;
+          animation: circleMove 8s infinite 5s;
+  left: 1525px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
@@ -4814,9 +4814,9 @@ body main .home .intro .shape:hover {
 }
 
 body main .home .intro .shape:nth-child(1) {
-  -webkit-animation: circleMove 13s infinite 5s;
-          animation: circleMove 13s infinite 5s;
-  left: 93px;
+  -webkit-animation: circleMove 10s infinite 4s;
+          animation: circleMove 10s infinite 4s;
+  left: 1084px;
 }
 
 body main .home .intro .shape:nth-child(1).circle {
@@ -4842,9 +4842,9 @@ body main .home .intro .shape:nth-child(1).blue {
 }
 
 body main .home .intro .shape:nth-child(2) {
-  -webkit-animation: circleMove 14s infinite 3s;
-          animation: circleMove 14s infinite 3s;
-  left: 668px;
+  -webkit-animation: circleMove 15s infinite 9s;
+          animation: circleMove 15s infinite 9s;
+  left: 1363px;
 }
 
 body main .home .intro .shape:nth-child(2).circle {
@@ -4870,9 +4870,9 @@ body main .home .intro .shape:nth-child(2).blue {
 }
 
 body main .home .intro .shape:nth-child(3) {
-  -webkit-animation: circleMove 9s infinite 10s;
-          animation: circleMove 9s infinite 10s;
-  left: 548px;
+  -webkit-animation: circleMove 12s infinite 8s;
+          animation: circleMove 12s infinite 8s;
+  left: 1540px;
 }
 
 body main .home .intro .shape:nth-child(3).circle {
@@ -4898,9 +4898,9 @@ body main .home .intro .shape:nth-child(3).blue {
 }
 
 body main .home .intro .shape:nth-child(4) {
-  -webkit-animation: circleMove 14s infinite 5s;
-          animation: circleMove 14s infinite 5s;
-  left: 533px;
+  -webkit-animation: circleMove 11s infinite 9s;
+          animation: circleMove 11s infinite 9s;
+  left: 312px;
 }
 
 body main .home .intro .shape:nth-child(4).circle {
@@ -4926,9 +4926,9 @@ body main .home .intro .shape:nth-child(4).blue {
 }
 
 body main .home .intro .shape:nth-child(5) {
-  -webkit-animation: circleMove 12s infinite 3s;
-          animation: circleMove 12s infinite 3s;
-  left: 661px;
+  -webkit-animation: circleMove 9s infinite 5s;
+          animation: circleMove 9s infinite 5s;
+  left: 1752px;
 }
 
 body main .home .intro .shape:nth-child(5).circle {
@@ -4954,9 +4954,9 @@ body main .home .intro .shape:nth-child(5).blue {
 }
 
 body main .home .intro .shape:nth-child(6) {
-  -webkit-animation: circleMove 13s infinite 3s;
-          animation: circleMove 13s infinite 3s;
-  left: 364px;
+  -webkit-animation: circleMove 13s infinite 9s;
+          animation: circleMove 13s infinite 9s;
+  left: 785px;
 }
 
 body main .home .intro .shape:nth-child(6).circle {
@@ -4982,9 +4982,9 @@ body main .home .intro .shape:nth-child(6).blue {
 }
 
 body main .home .intro .shape:nth-child(7) {
-  -webkit-animation: circleMove 10s infinite 9s;
-          animation: circleMove 10s infinite 9s;
-  left: 75px;
+  -webkit-animation: circleMove 10s infinite 1s;
+          animation: circleMove 10s infinite 1s;
+  left: 233px;
 }
 
 body main .home .intro .shape:nth-child(7).circle {
@@ -5010,9 +5010,9 @@ body main .home .intro .shape:nth-child(7).blue {
 }
 
 body main .home .intro .shape:nth-child(8) {
-  -webkit-animation: circleMove 9s infinite 5s;
-          animation: circleMove 9s infinite 5s;
-  left: 807px;
+  -webkit-animation: circleMove 10s infinite 1s;
+          animation: circleMove 10s infinite 1s;
+  left: 1619px;
 }
 
 body main .home .intro .shape:nth-child(8).circle {
@@ -5040,7 +5040,7 @@ body main .home .intro .shape:nth-child(8).blue {
 body main .home .intro .shape:nth-child(9) {
   -webkit-animation: circleMove 15s infinite 6s;
           animation: circleMove 15s infinite 6s;
-  left: 1694px;
+  left: 1875px;
 }
 
 body main .home .intro .shape:nth-child(9).circle {
@@ -5066,9 +5066,9 @@ body main .home .intro .shape:nth-child(9).blue {
 }
 
 body main .home .intro .shape:nth-child(10) {
-  -webkit-animation: circleMove 13s infinite 3s;
-          animation: circleMove 13s infinite 3s;
-  left: 439px;
+  -webkit-animation: circleMove 14s infinite 5s;
+          animation: circleMove 14s infinite 5s;
+  left: 785px;
 }
 
 body main .home .intro .shape:nth-child(10).circle {
@@ -5094,9 +5094,9 @@ body main .home .intro .shape:nth-child(10).blue {
 }
 
 body main .home .intro .shape:nth-child(11) {
-  -webkit-animation: circleMove 10s infinite 8s;
-          animation: circleMove 10s infinite 8s;
-  left: 1715px;
+  -webkit-animation: circleMove 12s infinite 1s;
+          animation: circleMove 12s infinite 1s;
+  left: 485px;
 }
 
 body main .home .intro .shape:nth-child(11).circle {
@@ -5122,9 +5122,9 @@ body main .home .intro .shape:nth-child(11).blue {
 }
 
 body main .home .intro .shape:nth-child(12) {
-  -webkit-animation: circleMove 11s infinite 9s;
-          animation: circleMove 11s infinite 9s;
-  left: 1836px;
+  -webkit-animation: circleMove 13s infinite 6s;
+          animation: circleMove 13s infinite 6s;
+  left: 372px;
 }
 
 body main .home .intro .shape:nth-child(12).circle {
@@ -5150,9 +5150,9 @@ body main .home .intro .shape:nth-child(12).blue {
 }
 
 body main .home .intro .shape:nth-child(13) {
-  -webkit-animation: circleMove 11s infinite 5s;
-          animation: circleMove 11s infinite 5s;
-  left: 685px;
+  -webkit-animation: circleMove 9s infinite 3s;
+          animation: circleMove 9s infinite 3s;
+  left: 1068px;
 }
 
 body main .home .intro .shape:nth-child(13).circle {
@@ -5178,9 +5178,9 @@ body main .home .intro .shape:nth-child(13).blue {
 }
 
 body main .home .intro .shape:nth-child(14) {
-  -webkit-animation: circleMove 11s infinite 4s;
-          animation: circleMove 11s infinite 4s;
-  left: 1741px;
+  -webkit-animation: circleMove 13s infinite 10s;
+          animation: circleMove 13s infinite 10s;
+  left: 252px;
 }
 
 body main .home .intro .shape:nth-child(14).circle {
@@ -5206,9 +5206,9 @@ body main .home .intro .shape:nth-child(14).blue {
 }
 
 body main .home .intro .shape:nth-child(15) {
-  -webkit-animation: circleMove 12s infinite 8s;
-          animation: circleMove 12s infinite 8s;
-  left: 570px;
+  -webkit-animation: circleMove 9s infinite 6s;
+          animation: circleMove 9s infinite 6s;
+  left: 734px;
 }
 
 body main .home .intro .shape:nth-child(15).circle {
@@ -5234,9 +5234,9 @@ body main .home .intro .shape:nth-child(15).blue {
 }
 
 body main .home .intro .shape:nth-child(16) {
-  -webkit-animation: circleMove 9s infinite 3s;
-          animation: circleMove 9s infinite 3s;
-  left: 462px;
+  -webkit-animation: circleMove 15s infinite 5s;
+          animation: circleMove 15s infinite 5s;
+  left: 751px;
 }
 
 body main .home .intro .shape:nth-child(16).circle {
@@ -5262,9 +5262,9 @@ body main .home .intro .shape:nth-child(16).blue {
 }
 
 body main .home .intro .shape:nth-child(17) {
-  -webkit-animation: circleMove 13s infinite 6s;
-          animation: circleMove 13s infinite 6s;
-  left: 846px;
+  -webkit-animation: circleMove 15s infinite 5s;
+          animation: circleMove 15s infinite 5s;
+  left: 178px;
 }
 
 body main .home .intro .shape:nth-child(17).circle {
@@ -5290,9 +5290,9 @@ body main .home .intro .shape:nth-child(17).blue {
 }
 
 body main .home .intro .shape:nth-child(18) {
-  -webkit-animation: circleMove 9s infinite 9s;
-          animation: circleMove 9s infinite 9s;
-  left: 362px;
+  -webkit-animation: circleMove 14s infinite 9s;
+          animation: circleMove 14s infinite 9s;
+  left: 220px;
 }
 
 body main .home .intro .shape:nth-child(18).circle {
@@ -5318,9 +5318,9 @@ body main .home .intro .shape:nth-child(18).blue {
 }
 
 body main .home .intro .shape:nth-child(19) {
-  -webkit-animation: circleMove 14s infinite 8s;
-          animation: circleMove 14s infinite 8s;
-  left: 914px;
+  -webkit-animation: circleMove 10s infinite 1s;
+          animation: circleMove 10s infinite 1s;
+  left: 1421px;
 }
 
 body main .home .intro .shape:nth-child(19).circle {
@@ -5346,9 +5346,9 @@ body main .home .intro .shape:nth-child(19).blue {
 }
 
 body main .home .intro .shape:nth-child(20) {
-  -webkit-animation: circleMove 14s infinite 10s;
-          animation: circleMove 14s infinite 10s;
-  left: 1196px;
+  -webkit-animation: circleMove 15s infinite 7s;
+          animation: circleMove 15s infinite 7s;
+  left: 1285px;
 }
 
 body main .home .intro .shape:nth-child(20).circle {
@@ -5374,9 +5374,9 @@ body main .home .intro .shape:nth-child(20).blue {
 }
 
 body main .home .intro .shape:nth-child(21) {
-  -webkit-animation: circleMove 9s infinite 1s;
-          animation: circleMove 9s infinite 1s;
-  left: 919px;
+  -webkit-animation: circleMove 14s infinite 10s;
+          animation: circleMove 14s infinite 10s;
+  left: 1368px;
 }
 
 body main .home .intro .shape:nth-child(21).circle {
@@ -5402,9 +5402,9 @@ body main .home .intro .shape:nth-child(21).blue {
 }
 
 body main .home .intro .shape:nth-child(22) {
-  -webkit-animation: circleMove 12s infinite 1s;
-          animation: circleMove 12s infinite 1s;
-  left: 1399px;
+  -webkit-animation: circleMove 14s infinite 3s;
+          animation: circleMove 14s infinite 3s;
+  left: 1005px;
 }
 
 body main .home .intro .shape:nth-child(22).circle {
@@ -5430,9 +5430,9 @@ body main .home .intro .shape:nth-child(22).blue {
 }
 
 body main .home .intro .shape:nth-child(23) {
-  -webkit-animation: circleMove 9s infinite 2s;
-          animation: circleMove 9s infinite 2s;
-  left: 1322px;
+  -webkit-animation: circleMove 10s infinite 2s;
+          animation: circleMove 10s infinite 2s;
+  left: 1764px;
 }
 
 body main .home .intro .shape:nth-child(23).circle {
@@ -5458,9 +5458,9 @@ body main .home .intro .shape:nth-child(23).blue {
 }
 
 body main .home .intro .shape:nth-child(24) {
-  -webkit-animation: circleMove 11s infinite 10s;
-          animation: circleMove 11s infinite 10s;
-  left: 453px;
+  -webkit-animation: circleMove 10s infinite 6s;
+          animation: circleMove 10s infinite 6s;
+  left: 1066px;
 }
 
 body main .home .intro .shape:nth-child(24).circle {
@@ -5486,9 +5486,9 @@ body main .home .intro .shape:nth-child(24).blue {
 }
 
 body main .home .intro .shape:nth-child(25) {
-  -webkit-animation: circleMove 13s infinite 5s;
-          animation: circleMove 13s infinite 5s;
-  left: 789px;
+  -webkit-animation: circleMove 11s infinite 10s;
+          animation: circleMove 11s infinite 10s;
+  left: 717px;
 }
 
 body main .home .intro .shape:nth-child(25).circle {
@@ -5514,9 +5514,9 @@ body main .home .intro .shape:nth-child(25).blue {
 }
 
 body main .home .intro .shape:nth-child(26) {
-  -webkit-animation: circleMove 15s infinite 2s;
-          animation: circleMove 15s infinite 2s;
-  left: 1874px;
+  -webkit-animation: circleMove 11s infinite 10s;
+          animation: circleMove 11s infinite 10s;
+  left: 529px;
 }
 
 body main .home .intro .shape:nth-child(26).circle {
@@ -5542,9 +5542,9 @@ body main .home .intro .shape:nth-child(26).blue {
 }
 
 body main .home .intro .shape:nth-child(27) {
-  -webkit-animation: circleMove 13s infinite 10s;
-          animation: circleMove 13s infinite 10s;
-  left: 1257px;
+  -webkit-animation: circleMove 10s infinite 5s;
+          animation: circleMove 10s infinite 5s;
+  left: 54px;
 }
 
 body main .home .intro .shape:nth-child(27).circle {
@@ -5570,9 +5570,9 @@ body main .home .intro .shape:nth-child(27).blue {
 }
 
 body main .home .intro .shape:nth-child(28) {
-  -webkit-animation: circleMove 12s infinite 5s;
-          animation: circleMove 12s infinite 5s;
-  left: 81px;
+  -webkit-animation: circleMove 13s infinite 1s;
+          animation: circleMove 13s infinite 1s;
+  left: 1134px;
 }
 
 body main .home .intro .shape:nth-child(28).circle {
@@ -5598,9 +5598,9 @@ body main .home .intro .shape:nth-child(28).blue {
 }
 
 body main .home .intro .shape:nth-child(29) {
-  -webkit-animation: circleMove 10s infinite 2s;
-          animation: circleMove 10s infinite 2s;
-  left: 1989px;
+  -webkit-animation: circleMove 13s infinite 1s;
+          animation: circleMove 13s infinite 1s;
+  left: 416px;
 }
 
 body main .home .intro .shape:nth-child(29).circle {
@@ -5626,9 +5626,9 @@ body main .home .intro .shape:nth-child(29).blue {
 }
 
 body main .home .intro .shape:nth-child(30) {
-  -webkit-animation: circleMove 11s infinite 9s;
-          animation: circleMove 11s infinite 9s;
-  left: 1974px;
+  -webkit-animation: circleMove 10s infinite 3s;
+          animation: circleMove 10s infinite 3s;
+  left: 1161px;
 }
 
 body main .home .intro .shape:nth-child(30).circle {
@@ -5654,9 +5654,9 @@ body main .home .intro .shape:nth-child(30).blue {
 }
 
 body main .home .intro .shape:nth-child(31) {
-  -webkit-animation: circleMove 11s infinite 4s;
-          animation: circleMove 11s infinite 4s;
-  left: 361px;
+  -webkit-animation: circleMove 12s infinite 1s;
+          animation: circleMove 12s infinite 1s;
+  left: 986px;
 }
 
 body main .home .intro .shape:nth-child(31).circle {
@@ -5682,9 +5682,9 @@ body main .home .intro .shape:nth-child(31).blue {
 }
 
 body main .home .intro .shape:nth-child(32) {
-  -webkit-animation: circleMove 12s infinite 1s;
-          animation: circleMove 12s infinite 1s;
-  left: 1036px;
+  -webkit-animation: circleMove 9s infinite 7s;
+          animation: circleMove 9s infinite 7s;
+  left: 1875px;
 }
 
 body main .home .intro .shape:nth-child(32).circle {
@@ -5710,9 +5710,9 @@ body main .home .intro .shape:nth-child(32).blue {
 }
 
 body main .home .intro .shape:nth-child(33) {
-  -webkit-animation: circleMove 11s infinite 9s;
-          animation: circleMove 11s infinite 9s;
-  left: 1987px;
+  -webkit-animation: circleMove 11s infinite 8s;
+          animation: circleMove 11s infinite 8s;
+  left: 1533px;
 }
 
 body main .home .intro .shape:nth-child(33).circle {
@@ -5738,9 +5738,9 @@ body main .home .intro .shape:nth-child(33).blue {
 }
 
 body main .home .intro .shape:nth-child(34) {
-  -webkit-animation: circleMove 10s infinite 8s;
-          animation: circleMove 10s infinite 8s;
-  left: 1629px;
+  -webkit-animation: circleMove 13s infinite 6s;
+          animation: circleMove 13s infinite 6s;
+  left: 713px;
 }
 
 body main .home .intro .shape:nth-child(34).circle {
@@ -5766,9 +5766,9 @@ body main .home .intro .shape:nth-child(34).blue {
 }
 
 body main .home .intro .shape:nth-child(35) {
-  -webkit-animation: circleMove 9s infinite 9s;
-          animation: circleMove 9s infinite 9s;
-  left: 1744px;
+  -webkit-animation: circleMove 12s infinite 3s;
+          animation: circleMove 12s infinite 3s;
+  left: 301px;
 }
 
 body main .home .intro .shape:nth-child(35).circle {
@@ -5794,9 +5794,9 @@ body main .home .intro .shape:nth-child(35).blue {
 }
 
 body main .home .intro .shape:nth-child(36) {
-  -webkit-animation: circleMove 13s infinite 7s;
-          animation: circleMove 13s infinite 7s;
-  left: 1895px;
+  -webkit-animation: circleMove 15s infinite 10s;
+          animation: circleMove 15s infinite 10s;
+  left: 1912px;
 }
 
 body main .home .intro .shape:nth-child(36).circle {
@@ -5822,9 +5822,9 @@ body main .home .intro .shape:nth-child(36).blue {
 }
 
 body main .home .intro .shape:nth-child(37) {
-  -webkit-animation: circleMove 10s infinite 7s;
-          animation: circleMove 10s infinite 7s;
-  left: 284px;
+  -webkit-animation: circleMove 13s infinite 6s;
+          animation: circleMove 13s infinite 6s;
+  left: 29px;
 }
 
 body main .home .intro .shape:nth-child(37).circle {
@@ -5850,9 +5850,9 @@ body main .home .intro .shape:nth-child(37).blue {
 }
 
 body main .home .intro .shape:nth-child(38) {
-  -webkit-animation: circleMove 13s infinite 4s;
-          animation: circleMove 13s infinite 4s;
-  left: 908px;
+  -webkit-animation: circleMove 15s infinite 1s;
+          animation: circleMove 15s infinite 1s;
+  left: 231px;
 }
 
 body main .home .intro .shape:nth-child(38).circle {
@@ -5878,9 +5878,9 @@ body main .home .intro .shape:nth-child(38).blue {
 }
 
 body main .home .intro .shape:nth-child(39) {
-  -webkit-animation: circleMove 12s infinite 10s;
-          animation: circleMove 12s infinite 10s;
-  left: 1051px;
+  -webkit-animation: circleMove 11s infinite 10s;
+          animation: circleMove 11s infinite 10s;
+  left: 571px;
 }
 
 body main .home .intro .shape:nth-child(39).circle {
@@ -5906,9 +5906,9 @@ body main .home .intro .shape:nth-child(39).blue {
 }
 
 body main .home .intro .shape:nth-child(40) {
-  -webkit-animation: circleMove 15s infinite 10s;
-          animation: circleMove 15s infinite 10s;
-  left: 490px;
+  -webkit-animation: circleMove 9s infinite 5s;
+          animation: circleMove 9s infinite 5s;
+  left: 1779px;
 }
 
 body main .home .intro .shape:nth-child(40).circle {
@@ -5934,9 +5934,9 @@ body main .home .intro .shape:nth-child(40).blue {
 }
 
 body main .home .intro .shape:nth-child(41) {
-  -webkit-animation: circleMove 10s infinite 10s;
-          animation: circleMove 10s infinite 10s;
-  left: 1629px;
+  -webkit-animation: circleMove 9s infinite 1s;
+          animation: circleMove 9s infinite 1s;
+  left: 444px;
 }
 
 body main .home .intro .shape:nth-child(41).circle {
@@ -5962,9 +5962,9 @@ body main .home .intro .shape:nth-child(41).blue {
 }
 
 body main .home .intro .shape:nth-child(42) {
-  -webkit-animation: circleMove 13s infinite 10s;
-          animation: circleMove 13s infinite 10s;
-  left: 1403px;
+  -webkit-animation: circleMove 9s infinite 6s;
+          animation: circleMove 9s infinite 6s;
+  left: 502px;
 }
 
 body main .home .intro .shape:nth-child(42).circle {
@@ -5990,9 +5990,9 @@ body main .home .intro .shape:nth-child(42).blue {
 }
 
 body main .home .intro .shape:nth-child(43) {
-  -webkit-animation: circleMove 10s infinite 6s;
-          animation: circleMove 10s infinite 6s;
-  left: 1874px;
+  -webkit-animation: circleMove 9s infinite 3s;
+          animation: circleMove 9s infinite 3s;
+  left: 1040px;
 }
 
 body main .home .intro .shape:nth-child(43).circle {
@@ -6018,9 +6018,9 @@ body main .home .intro .shape:nth-child(43).blue {
 }
 
 body main .home .intro .shape:nth-child(44) {
-  -webkit-animation: circleMove 11s infinite 1s;
-          animation: circleMove 11s infinite 1s;
-  left: 675px;
+  -webkit-animation: circleMove 15s infinite 7s;
+          animation: circleMove 15s infinite 7s;
+  left: 809px;
 }
 
 body main .home .intro .shape:nth-child(44).circle {
@@ -6046,9 +6046,9 @@ body main .home .intro .shape:nth-child(44).blue {
 }
 
 body main .home .intro .shape:nth-child(45) {
-  -webkit-animation: circleMove 11s infinite 10s;
-          animation: circleMove 11s infinite 10s;
-  left: 1120px;
+  -webkit-animation: circleMove 13s infinite 1s;
+          animation: circleMove 13s infinite 1s;
+  left: 1151px;
 }
 
 body main .home .intro .shape:nth-child(45).circle {
@@ -6074,9 +6074,9 @@ body main .home .intro .shape:nth-child(45).blue {
 }
 
 body main .home .intro .shape:nth-child(46) {
-  -webkit-animation: circleMove 15s infinite 1s;
-          animation: circleMove 15s infinite 1s;
-  left: 945px;
+  -webkit-animation: circleMove 15s infinite 5s;
+          animation: circleMove 15s infinite 5s;
+  left: 924px;
 }
 
 body main .home .intro .shape:nth-child(46).circle {
@@ -6102,9 +6102,9 @@ body main .home .intro .shape:nth-child(46).blue {
 }
 
 body main .home .intro .shape:nth-child(47) {
-  -webkit-animation: circleMove 13s infinite 8s;
-          animation: circleMove 13s infinite 8s;
-  left: 239px;
+  -webkit-animation: circleMove 15s infinite 7s;
+          animation: circleMove 15s infinite 7s;
+  left: 1149px;
 }
 
 body main .home .intro .shape:nth-child(47).circle {
@@ -6130,9 +6130,9 @@ body main .home .intro .shape:nth-child(47).blue {
 }
 
 body main .home .intro .shape:nth-child(48) {
-  -webkit-animation: circleMove 15s infinite 6s;
-          animation: circleMove 15s infinite 6s;
-  left: 1991px;
+  -webkit-animation: circleMove 11s infinite 7s;
+          animation: circleMove 11s infinite 7s;
+  left: 1121px;
 }
 
 body main .home .intro .shape:nth-child(48).circle {
@@ -6158,9 +6158,9 @@ body main .home .intro .shape:nth-child(48).blue {
 }
 
 body main .home .intro .shape:nth-child(49) {
-  -webkit-animation: circleMove 12s infinite 5s;
-          animation: circleMove 12s infinite 5s;
-  left: 1422px;
+  -webkit-animation: circleMove 10s infinite 1s;
+          animation: circleMove 10s infinite 1s;
+  left: 873px;
 }
 
 body main .home .intro .shape:nth-child(49).circle {
@@ -6186,9 +6186,9 @@ body main .home .intro .shape:nth-child(49).blue {
 }
 
 body main .home .intro .shape:nth-child(50) {
-  -webkit-animation: circleMove 9s infinite 8s;
-          animation: circleMove 9s infinite 8s;
-  left: 968px;
+  -webkit-animation: circleMove 12s infinite 8s;
+          animation: circleMove 12s infinite 8s;
+  left: 723px;
 }
 
 body main .home .intro .shape:nth-child(50).circle {
@@ -6214,9 +6214,9 @@ body main .home .intro .shape:nth-child(50).blue {
 }
 
 body main .home .intro .shape:nth-child(51) {
-  -webkit-animation: circleMove 12s infinite 9s;
-          animation: circleMove 12s infinite 9s;
-  left: 1415px;
+  -webkit-animation: circleMove 11s infinite 10s;
+          animation: circleMove 11s infinite 10s;
+  left: 1766px;
 }
 
 body main .home .intro .shape:nth-child(51).circle {
@@ -6242,9 +6242,9 @@ body main .home .intro .shape:nth-child(51).blue {
 }
 
 body main .home .intro .shape:nth-child(52) {
-  -webkit-animation: circleMove 13s infinite 7s;
-          animation: circleMove 13s infinite 7s;
-  left: 1889px;
+  -webkit-animation: circleMove 12s infinite 7s;
+          animation: circleMove 12s infinite 7s;
+  left: 1418px;
 }
 
 body main .home .intro .shape:nth-child(52).circle {
@@ -6270,9 +6270,9 @@ body main .home .intro .shape:nth-child(52).blue {
 }
 
 body main .home .intro .shape:nth-child(53) {
-  -webkit-animation: circleMove 13s infinite 2s;
-          animation: circleMove 13s infinite 2s;
-  left: 843px;
+  -webkit-animation: circleMove 10s infinite 4s;
+          animation: circleMove 10s infinite 4s;
+  left: 619px;
 }
 
 body main .home .intro .shape:nth-child(53).circle {
@@ -6298,9 +6298,9 @@ body main .home .intro .shape:nth-child(53).blue {
 }
 
 body main .home .intro .shape:nth-child(54) {
-  -webkit-animation: circleMove 15s infinite 2s;
-          animation: circleMove 15s infinite 2s;
-  left: 81px;
+  -webkit-animation: circleMove 10s infinite 5s;
+          animation: circleMove 10s infinite 5s;
+  left: 1290px;
 }
 
 body main .home .intro .shape:nth-child(54).circle {
@@ -6326,9 +6326,9 @@ body main .home .intro .shape:nth-child(54).blue {
 }
 
 body main .home .intro .shape:nth-child(55) {
-  -webkit-animation: circleMove 13s infinite 1s;
-          animation: circleMove 13s infinite 1s;
-  left: 1612px;
+  -webkit-animation: circleMove 11s infinite 5s;
+          animation: circleMove 11s infinite 5s;
+  left: 740px;
 }
 
 body main .home .intro .shape:nth-child(55).circle {
@@ -6354,9 +6354,9 @@ body main .home .intro .shape:nth-child(55).blue {
 }
 
 body main .home .intro .shape:nth-child(56) {
-  -webkit-animation: circleMove 13s infinite 8s;
-          animation: circleMove 13s infinite 8s;
-  left: 1027px;
+  -webkit-animation: circleMove 14s infinite 10s;
+          animation: circleMove 14s infinite 10s;
+  left: 1207px;
 }
 
 body main .home .intro .shape:nth-child(56).circle {
@@ -6382,9 +6382,9 @@ body main .home .intro .shape:nth-child(56).blue {
 }
 
 body main .home .intro .shape:nth-child(57) {
-  -webkit-animation: circleMove 15s infinite 1s;
-          animation: circleMove 15s infinite 1s;
-  left: 1051px;
+  -webkit-animation: circleMove 13s infinite 6s;
+          animation: circleMove 13s infinite 6s;
+  left: 1432px;
 }
 
 body main .home .intro .shape:nth-child(57).circle {
@@ -6410,9 +6410,9 @@ body main .home .intro .shape:nth-child(57).blue {
 }
 
 body main .home .intro .shape:nth-child(58) {
-  -webkit-animation: circleMove 11s infinite 1s;
-          animation: circleMove 11s infinite 1s;
-  left: 1424px;
+  -webkit-animation: circleMove 12s infinite 7s;
+          animation: circleMove 12s infinite 7s;
+  left: 735px;
 }
 
 body main .home .intro .shape:nth-child(58).circle {
@@ -6438,9 +6438,9 @@ body main .home .intro .shape:nth-child(58).blue {
 }
 
 body main .home .intro .shape:nth-child(59) {
-  -webkit-animation: circleMove 15s infinite 1s;
-          animation: circleMove 15s infinite 1s;
-  left: 531px;
+  -webkit-animation: circleMove 12s infinite 6s;
+          animation: circleMove 12s infinite 6s;
+  left: 1602px;
 }
 
 body main .home .intro .shape:nth-child(59).circle {
@@ -6466,9 +6466,9 @@ body main .home .intro .shape:nth-child(59).blue {
 }
 
 body main .home .intro .shape:nth-child(60) {
-  -webkit-animation: circleMove 12s infinite 7s;
-          animation: circleMove 12s infinite 7s;
-  left: 81px;
+  -webkit-animation: circleMove 12s infinite 9s;
+          animation: circleMove 12s infinite 9s;
+  left: 897px;
 }
 
 body main .home .intro .shape:nth-child(60).circle {
@@ -6494,9 +6494,9 @@ body main .home .intro .shape:nth-child(60).blue {
 }
 
 body main .home .intro .shape:nth-child(61) {
-  -webkit-animation: circleMove 12s infinite 10s;
-          animation: circleMove 12s infinite 10s;
-  left: 384px;
+  -webkit-animation: circleMove 11s infinite 7s;
+          animation: circleMove 11s infinite 7s;
+  left: 1909px;
 }
 
 body main .home .intro .shape:nth-child(61).circle {
@@ -6522,9 +6522,9 @@ body main .home .intro .shape:nth-child(61).blue {
 }
 
 body main .home .intro .shape:nth-child(62) {
-  -webkit-animation: circleMove 14s infinite 7s;
-          animation: circleMove 14s infinite 7s;
-  left: 837px;
+  -webkit-animation: circleMove 15s infinite 4s;
+          animation: circleMove 15s infinite 4s;
+  left: 1565px;
 }
 
 body main .home .intro .shape:nth-child(62).circle {
@@ -6550,9 +6550,9 @@ body main .home .intro .shape:nth-child(62).blue {
 }
 
 body main .home .intro .shape:nth-child(63) {
-  -webkit-animation: circleMove 13s infinite 6s;
-          animation: circleMove 13s infinite 6s;
-  left: 410px;
+  -webkit-animation: circleMove 11s infinite 9s;
+          animation: circleMove 11s infinite 9s;
+  left: 901px;
 }
 
 body main .home .intro .shape:nth-child(63).circle {
@@ -6578,9 +6578,9 @@ body main .home .intro .shape:nth-child(63).blue {
 }
 
 body main .home .intro .shape:nth-child(64) {
-  -webkit-animation: circleMove 10s infinite 3s;
-          animation: circleMove 10s infinite 3s;
-  left: 210px;
+  -webkit-animation: circleMove 12s infinite 5s;
+          animation: circleMove 12s infinite 5s;
+  left: 1782px;
 }
 
 body main .home .intro .shape:nth-child(64).circle {
@@ -6606,9 +6606,9 @@ body main .home .intro .shape:nth-child(64).blue {
 }
 
 body main .home .intro .shape:nth-child(65) {
-  -webkit-animation: circleMove 10s infinite 10s;
-          animation: circleMove 10s infinite 10s;
-  left: 503px;
+  -webkit-animation: circleMove 11s infinite 1s;
+          animation: circleMove 11s infinite 1s;
+  left: 639px;
 }
 
 body main .home .intro .shape:nth-child(65).circle {
@@ -6634,9 +6634,9 @@ body main .home .intro .shape:nth-child(65).blue {
 }
 
 body main .home .intro .shape:nth-child(66) {
-  -webkit-animation: circleMove 15s infinite 1s;
-          animation: circleMove 15s infinite 1s;
-  left: 1342px;
+  -webkit-animation: circleMove 15s infinite 7s;
+          animation: circleMove 15s infinite 7s;
+  left: 1954px;
 }
 
 body main .home .intro .shape:nth-child(66).circle {
@@ -6662,9 +6662,9 @@ body main .home .intro .shape:nth-child(66).blue {
 }
 
 body main .home .intro .shape:nth-child(67) {
-  -webkit-animation: circleMove 10s infinite 10s;
-          animation: circleMove 10s infinite 10s;
-  left: 1880px;
+  -webkit-animation: circleMove 9s infinite 5s;
+          animation: circleMove 9s infinite 5s;
+  left: 95px;
 }
 
 body main .home .intro .shape:nth-child(67).circle {
@@ -6690,9 +6690,9 @@ body main .home .intro .shape:nth-child(67).blue {
 }
 
 body main .home .intro .shape:nth-child(68) {
-  -webkit-animation: circleMove 9s infinite 8s;
-          animation: circleMove 9s infinite 8s;
-  left: 388px;
+  -webkit-animation: circleMove 14s infinite 6s;
+          animation: circleMove 14s infinite 6s;
+  left: 1983px;
 }
 
 body main .home .intro .shape:nth-child(68).circle {
@@ -6718,9 +6718,9 @@ body main .home .intro .shape:nth-child(68).blue {
 }
 
 body main .home .intro .shape:nth-child(69) {
-  -webkit-animation: circleMove 15s infinite 8s;
-          animation: circleMove 15s infinite 8s;
-  left: 1526px;
+  -webkit-animation: circleMove 15s infinite 7s;
+          animation: circleMove 15s infinite 7s;
+  left: 1307px;
 }
 
 body main .home .intro .shape:nth-child(69).circle {
@@ -6746,9 +6746,9 @@ body main .home .intro .shape:nth-child(69).blue {
 }
 
 body main .home .intro .shape:nth-child(70) {
-  -webkit-animation: circleMove 10s infinite 3s;
-          animation: circleMove 10s infinite 3s;
-  left: 1621px;
+  -webkit-animation: circleMove 15s infinite 5s;
+          animation: circleMove 15s infinite 5s;
+  left: 602px;
 }
 
 body main .home .intro .shape:nth-child(70).circle {
@@ -6774,9 +6774,9 @@ body main .home .intro .shape:nth-child(70).blue {
 }
 
 body main .home .intro .shape:nth-child(71) {
-  -webkit-animation: circleMove 13s infinite 1s;
-          animation: circleMove 13s infinite 1s;
-  left: 1326px;
+  -webkit-animation: circleMove 12s infinite 7s;
+          animation: circleMove 12s infinite 7s;
+  left: 1293px;
 }
 
 body main .home .intro .shape:nth-child(71).circle {
@@ -6802,9 +6802,9 @@ body main .home .intro .shape:nth-child(71).blue {
 }
 
 body main .home .intro .shape:nth-child(72) {
-  -webkit-animation: circleMove 12s infinite 9s;
-          animation: circleMove 12s infinite 9s;
-  left: 834px;
+  -webkit-animation: circleMove 9s infinite 7s;
+          animation: circleMove 9s infinite 7s;
+  left: 1902px;
 }
 
 body main .home .intro .shape:nth-child(72).circle {
@@ -6830,9 +6830,9 @@ body main .home .intro .shape:nth-child(72).blue {
 }
 
 body main .home .intro .shape:nth-child(73) {
-  -webkit-animation: circleMove 13s infinite 2s;
-          animation: circleMove 13s infinite 2s;
-  left: 1129px;
+  -webkit-animation: circleMove 14s infinite 6s;
+          animation: circleMove 14s infinite 6s;
+  left: 300px;
 }
 
 body main .home .intro .shape:nth-child(73).circle {
@@ -6858,9 +6858,9 @@ body main .home .intro .shape:nth-child(73).blue {
 }
 
 body main .home .intro .shape:nth-child(74) {
-  -webkit-animation: circleMove 9s infinite 6s;
-          animation: circleMove 9s infinite 6s;
-  left: 1205px;
+  -webkit-animation: circleMove 11s infinite 10s;
+          animation: circleMove 11s infinite 10s;
+  left: 625px;
 }
 
 body main .home .intro .shape:nth-child(74).circle {
@@ -6886,9 +6886,9 @@ body main .home .intro .shape:nth-child(74).blue {
 }
 
 body main .home .intro .shape:nth-child(75) {
-  -webkit-animation: circleMove 9s infinite 6s;
-          animation: circleMove 9s infinite 6s;
-  left: 42px;
+  -webkit-animation: circleMove 12s infinite 2s;
+          animation: circleMove 12s infinite 2s;
+  left: 589px;
 }
 
 body main .home .intro .shape:nth-child(75).circle {
@@ -6914,9 +6914,9 @@ body main .home .intro .shape:nth-child(75).blue {
 }
 
 body main .home .intro .shape:nth-child(76) {
-  -webkit-animation: circleMove 13s infinite 3s;
-          animation: circleMove 13s infinite 3s;
-  left: 1575px;
+  -webkit-animation: circleMove 9s infinite 1s;
+          animation: circleMove 9s infinite 1s;
+  left: 688px;
 }
 
 body main .home .intro .shape:nth-child(76).circle {
@@ -6942,9 +6942,9 @@ body main .home .intro .shape:nth-child(76).blue {
 }
 
 body main .home .intro .shape:nth-child(77) {
-  -webkit-animation: circleMove 12s infinite 9s;
-          animation: circleMove 12s infinite 9s;
-  left: 302px;
+  -webkit-animation: circleMove 15s infinite 10s;
+          animation: circleMove 15s infinite 10s;
+  left: 1770px;
 }
 
 body main .home .intro .shape:nth-child(77).circle {
@@ -6970,9 +6970,9 @@ body main .home .intro .shape:nth-child(77).blue {
 }
 
 body main .home .intro .shape:nth-child(78) {
-  -webkit-animation: circleMove 11s infinite 5s;
-          animation: circleMove 11s infinite 5s;
-  left: 58px;
+  -webkit-animation: circleMove 15s infinite 1s;
+          animation: circleMove 15s infinite 1s;
+  left: 985px;
 }
 
 body main .home .intro .shape:nth-child(78).circle {
@@ -6998,9 +6998,9 @@ body main .home .intro .shape:nth-child(78).blue {
 }
 
 body main .home .intro .shape:nth-child(79) {
-  -webkit-animation: circleMove 10s infinite 8s;
-          animation: circleMove 10s infinite 8s;
-  left: 1629px;
+  -webkit-animation: circleMove 11s infinite 10s;
+          animation: circleMove 11s infinite 10s;
+  left: 845px;
 }
 
 body main .home .intro .shape:nth-child(79).circle {
@@ -7026,9 +7026,9 @@ body main .home .intro .shape:nth-child(79).blue {
 }
 
 body main .home .intro .shape:nth-child(80) {
-  -webkit-animation: circleMove 14s infinite 9s;
-          animation: circleMove 14s infinite 9s;
-  left: 162px;
+  -webkit-animation: circleMove 11s infinite 7s;
+          animation: circleMove 11s infinite 7s;
+  left: 1810px;
 }
 
 body main .home .intro .shape:nth-child(80).circle {
@@ -7054,9 +7054,9 @@ body main .home .intro .shape:nth-child(80).blue {
 }
 
 body main .home .intro .shape:nth-child(81) {
-  -webkit-animation: circleMove 9s infinite 2s;
-          animation: circleMove 9s infinite 2s;
-  left: 1658px;
+  -webkit-animation: circleMove 14s infinite 8s;
+          animation: circleMove 14s infinite 8s;
+  left: 325px;
 }
 
 body main .home .intro .shape:nth-child(81).circle {
@@ -7082,9 +7082,9 @@ body main .home .intro .shape:nth-child(81).blue {
 }
 
 body main .home .intro .shape:nth-child(82) {
-  -webkit-animation: circleMove 14s infinite 2s;
-          animation: circleMove 14s infinite 2s;
-  left: 767px;
+  -webkit-animation: circleMove 11s infinite 10s;
+          animation: circleMove 11s infinite 10s;
+  left: 328px;
 }
 
 body main .home .intro .shape:nth-child(82).circle {
@@ -7110,9 +7110,9 @@ body main .home .intro .shape:nth-child(82).blue {
 }
 
 body main .home .intro .shape:nth-child(83) {
-  -webkit-animation: circleMove 10s infinite 10s;
-          animation: circleMove 10s infinite 10s;
-  left: 5px;
+  -webkit-animation: circleMove 13s infinite 9s;
+          animation: circleMove 13s infinite 9s;
+  left: 1172px;
 }
 
 body main .home .intro .shape:nth-child(83).circle {
@@ -7138,9 +7138,9 @@ body main .home .intro .shape:nth-child(83).blue {
 }
 
 body main .home .intro .shape:nth-child(84) {
-  -webkit-animation: circleMove 12s infinite 10s;
-          animation: circleMove 12s infinite 10s;
-  left: 1577px;
+  -webkit-animation: circleMove 11s infinite 4s;
+          animation: circleMove 11s infinite 4s;
+  left: 195px;
 }
 
 body main .home .intro .shape:nth-child(84).circle {
@@ -7166,9 +7166,9 @@ body main .home .intro .shape:nth-child(84).blue {
 }
 
 body main .home .intro .shape:nth-child(85) {
-  -webkit-animation: circleMove 14s infinite 2s;
-          animation: circleMove 14s infinite 2s;
-  left: 863px;
+  -webkit-animation: circleMove 14s infinite 1s;
+          animation: circleMove 14s infinite 1s;
+  left: 543px;
 }
 
 body main .home .intro .shape:nth-child(85).circle {
@@ -7194,9 +7194,9 @@ body main .home .intro .shape:nth-child(85).blue {
 }
 
 body main .home .intro .shape:nth-child(86) {
-  -webkit-animation: circleMove 9s infinite 10s;
-          animation: circleMove 9s infinite 10s;
-  left: 1665px;
+  -webkit-animation: circleMove 12s infinite 6s;
+          animation: circleMove 12s infinite 6s;
+  left: 126px;
 }
 
 body main .home .intro .shape:nth-child(86).circle {
@@ -7222,9 +7222,9 @@ body main .home .intro .shape:nth-child(86).blue {
 }
 
 body main .home .intro .shape:nth-child(87) {
-  -webkit-animation: circleMove 10s infinite 9s;
-          animation: circleMove 10s infinite 9s;
-  left: 1047px;
+  -webkit-animation: circleMove 12s infinite 3s;
+          animation: circleMove 12s infinite 3s;
+  left: 686px;
 }
 
 body main .home .intro .shape:nth-child(87).circle {
@@ -7250,9 +7250,9 @@ body main .home .intro .shape:nth-child(87).blue {
 }
 
 body main .home .intro .shape:nth-child(88) {
-  -webkit-animation: circleMove 10s infinite 5s;
-          animation: circleMove 10s infinite 5s;
-  left: 1324px;
+  -webkit-animation: circleMove 9s infinite 9s;
+          animation: circleMove 9s infinite 9s;
+  left: 326px;
 }
 
 body main .home .intro .shape:nth-child(88).circle {
@@ -7278,9 +7278,9 @@ body main .home .intro .shape:nth-child(88).blue {
 }
 
 body main .home .intro .shape:nth-child(89) {
-  -webkit-animation: circleMove 13s infinite 5s;
-          animation: circleMove 13s infinite 5s;
-  left: 1165px;
+  -webkit-animation: circleMove 13s infinite 10s;
+          animation: circleMove 13s infinite 10s;
+  left: 223px;
 }
 
 body main .home .intro .shape:nth-child(89).circle {
@@ -7306,9 +7306,9 @@ body main .home .intro .shape:nth-child(89).blue {
 }
 
 body main .home .intro .shape:nth-child(90) {
-  -webkit-animation: circleMove 12s infinite 9s;
-          animation: circleMove 12s infinite 9s;
-  left: 402px;
+  -webkit-animation: circleMove 15s infinite 5s;
+          animation: circleMove 15s infinite 5s;
+  left: 17px;
 }
 
 body main .home .intro .shape:nth-child(90).circle {
@@ -7334,9 +7334,9 @@ body main .home .intro .shape:nth-child(90).blue {
 }
 
 body main .home .intro .shape:nth-child(91) {
-  -webkit-animation: circleMove 12s infinite 10s;
-          animation: circleMove 12s infinite 10s;
-  left: 1260px;
+  -webkit-animation: circleMove 15s infinite 5s;
+          animation: circleMove 15s infinite 5s;
+  left: 606px;
 }
 
 body main .home .intro .shape:nth-child(91).circle {
@@ -7362,9 +7362,9 @@ body main .home .intro .shape:nth-child(91).blue {
 }
 
 body main .home .intro .shape:nth-child(92) {
-  -webkit-animation: circleMove 13s infinite 8s;
-          animation: circleMove 13s infinite 8s;
-  left: 1598px;
+  -webkit-animation: circleMove 13s infinite 9s;
+          animation: circleMove 13s infinite 9s;
+  left: 1230px;
 }
 
 body main .home .intro .shape:nth-child(92).circle {
@@ -7390,9 +7390,9 @@ body main .home .intro .shape:nth-child(92).blue {
 }
 
 body main .home .intro .shape:nth-child(93) {
-  -webkit-animation: circleMove 15s infinite 4s;
-          animation: circleMove 15s infinite 4s;
-  left: 890px;
+  -webkit-animation: circleMove 11s infinite 1s;
+          animation: circleMove 11s infinite 1s;
+  left: 1611px;
 }
 
 body main .home .intro .shape:nth-child(93).circle {
@@ -7418,9 +7418,9 @@ body main .home .intro .shape:nth-child(93).blue {
 }
 
 body main .home .intro .shape:nth-child(94) {
-  -webkit-animation: circleMove 11s infinite 1s;
-          animation: circleMove 11s infinite 1s;
-  left: 211px;
+  -webkit-animation: circleMove 11s infinite 3s;
+          animation: circleMove 11s infinite 3s;
+  left: 1513px;
 }
 
 body main .home .intro .shape:nth-child(94).circle {
@@ -7446,9 +7446,9 @@ body main .home .intro .shape:nth-child(94).blue {
 }
 
 body main .home .intro .shape:nth-child(95) {
-  -webkit-animation: circleMove 10s infinite 7s;
-          animation: circleMove 10s infinite 7s;
-  left: 1263px;
+  -webkit-animation: circleMove 11s infinite 1s;
+          animation: circleMove 11s infinite 1s;
+  left: 57px;
 }
 
 body main .home .intro .shape:nth-child(95).circle {
@@ -7474,9 +7474,9 @@ body main .home .intro .shape:nth-child(95).blue {
 }
 
 body main .home .intro .shape:nth-child(96) {
-  -webkit-animation: circleMove 13s infinite 3s;
-          animation: circleMove 13s infinite 3s;
-  left: 1528px;
+  -webkit-animation: circleMove 12s infinite 9s;
+          animation: circleMove 12s infinite 9s;
+  left: 38px;
 }
 
 body main .home .intro .shape:nth-child(96).circle {
@@ -7502,9 +7502,9 @@ body main .home .intro .shape:nth-child(96).blue {
 }
 
 body main .home .intro .shape:nth-child(97) {
-  -webkit-animation: circleMove 10s infinite 6s;
-          animation: circleMove 10s infinite 6s;
-  left: 1861px;
+  -webkit-animation: circleMove 9s infinite 8s;
+          animation: circleMove 9s infinite 8s;
+  left: 1180px;
 }
 
 body main .home .intro .shape:nth-child(97).circle {
@@ -7530,9 +7530,9 @@ body main .home .intro .shape:nth-child(97).blue {
 }
 
 body main .home .intro .shape:nth-child(98) {
-  -webkit-animation: circleMove 9s infinite 7s;
-          animation: circleMove 9s infinite 7s;
-  left: 1291px;
+  -webkit-animation: circleMove 14s infinite 6s;
+          animation: circleMove 14s infinite 6s;
+  left: 181px;
 }
 
 body main .home .intro .shape:nth-child(98).circle {
@@ -7558,9 +7558,9 @@ body main .home .intro .shape:nth-child(98).blue {
 }
 
 body main .home .intro .shape:nth-child(99) {
-  -webkit-animation: circleMove 11s infinite 1s;
-          animation: circleMove 11s infinite 1s;
-  left: 920px;
+  -webkit-animation: circleMove 15s infinite 6s;
+          animation: circleMove 15s infinite 6s;
+  left: 222px;
 }
 
 body main .home .intro .shape:nth-child(99).circle {
@@ -7586,9 +7586,9 @@ body main .home .intro .shape:nth-child(99).blue {
 }
 
 body main .home .intro .shape:nth-child(100) {
-  -webkit-animation: circleMove 13s infinite 1s;
-          animation: circleMove 13s infinite 1s;
-  left: 588px;
+  -webkit-animation: circleMove 9s infinite 10s;
+          animation: circleMove 9s infinite 10s;
+  left: 1884px;
 }
 
 body main .home .intro .shape:nth-child(100).circle {
@@ -7853,450 +7853,450 @@ body main .home .homeProjects .circle:hover {
 }
 
 body main .home .homeProjects .circle:nth-child(1) {
-  -webkit-animation: circleMove 8s infinite 1s;
-          animation: circleMove 8s infinite 1s;
-  left: 485px;
+  -webkit-animation: circleMove 11s infinite 2s;
+          animation: circleMove 11s infinite 2s;
+  left: 844px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(2) {
-  -webkit-animation: circleMove 7s infinite 10s;
-          animation: circleMove 7s infinite 10s;
-  left: 1276px;
+  -webkit-animation: circleMove 10s infinite 1s;
+          animation: circleMove 10s infinite 1s;
+  left: 1692px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(3) {
-  -webkit-animation: circleMove 11s infinite 5s;
-          animation: circleMove 11s infinite 5s;
-  left: 783px;
+  -webkit-animation: circleMove 11s infinite 6s;
+          animation: circleMove 11s infinite 6s;
+  left: 663px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(4) {
-  -webkit-animation: circleMove 6s infinite 6s;
-          animation: circleMove 6s infinite 6s;
-  left: 1517px;
+  -webkit-animation: circleMove 12s infinite 10s;
+          animation: circleMove 12s infinite 10s;
+  left: 1694px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(5) {
-  -webkit-animation: circleMove 6s infinite 2s;
-          animation: circleMove 6s infinite 2s;
-  left: 724px;
+  -webkit-animation: circleMove 9s infinite 3s;
+          animation: circleMove 9s infinite 3s;
+  left: 658px;
   width: 40px;
   height: 40px;
   opacity: 1;
 }
 
 body main .home .homeProjects .circle:nth-child(6) {
-  -webkit-animation: circleMove 12s infinite 9s;
-          animation: circleMove 12s infinite 9s;
-  left: 169px;
+  -webkit-animation: circleMove 10s infinite 9s;
+          animation: circleMove 10s infinite 9s;
+  left: 1577px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(7) {
-  -webkit-animation: circleMove 11s infinite 3s;
-          animation: circleMove 11s infinite 3s;
-  left: 351px;
+  -webkit-animation: circleMove 7s infinite 4s;
+          animation: circleMove 7s infinite 4s;
+  left: 1372px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(8) {
-  -webkit-animation: circleMove 8s infinite 4s;
-          animation: circleMove 8s infinite 4s;
-  left: 1280px;
+  -webkit-animation: circleMove 7s infinite 4s;
+          animation: circleMove 7s infinite 4s;
+  left: 486px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(9) {
-  -webkit-animation: circleMove 11s infinite 9s;
-          animation: circleMove 11s infinite 9s;
-  left: 1990px;
+  -webkit-animation: circleMove 10s infinite 10s;
+          animation: circleMove 10s infinite 10s;
+  left: 1399px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(10) {
-  -webkit-animation: circleMove 11s infinite 10s;
-          animation: circleMove 11s infinite 10s;
-  left: 1917px;
+  -webkit-animation: circleMove 12s infinite 9s;
+          animation: circleMove 12s infinite 9s;
+  left: 32px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(11) {
-  -webkit-animation: circleMove 11s infinite 5s;
-          animation: circleMove 11s infinite 5s;
-  left: 843px;
+  -webkit-animation: circleMove 6s infinite 6s;
+          animation: circleMove 6s infinite 6s;
+  left: 1118px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(12) {
-  -webkit-animation: circleMove 6s infinite 3s;
-          animation: circleMove 6s infinite 3s;
-  left: 111px;
+  -webkit-animation: circleMove 7s infinite 2s;
+          animation: circleMove 7s infinite 2s;
+  left: 306px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(13) {
-  -webkit-animation: circleMove 6s infinite 6s;
-          animation: circleMove 6s infinite 6s;
-  left: 1100px;
+  -webkit-animation: circleMove 9s infinite 8s;
+          animation: circleMove 9s infinite 8s;
+  left: 212px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(14) {
-  -webkit-animation: circleMove 10s infinite 10s;
-          animation: circleMove 10s infinite 10s;
-  left: 265px;
+  -webkit-animation: circleMove 9s infinite 10s;
+          animation: circleMove 9s infinite 10s;
+  left: 1282px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(15) {
-  -webkit-animation: circleMove 9s infinite 10s;
-          animation: circleMove 9s infinite 10s;
-  left: 687px;
+  -webkit-animation: circleMove 9s infinite 4s;
+          animation: circleMove 9s infinite 4s;
+  left: 1887px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(16) {
-  -webkit-animation: circleMove 6s infinite 1s;
-          animation: circleMove 6s infinite 1s;
-  left: 1621px;
+  -webkit-animation: circleMove 7s infinite 8s;
+          animation: circleMove 7s infinite 8s;
+  left: 1463px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(17) {
-  -webkit-animation: circleMove 11s infinite 6s;
-          animation: circleMove 11s infinite 6s;
-  left: 1932px;
+  -webkit-animation: circleMove 9s infinite 9s;
+          animation: circleMove 9s infinite 9s;
+  left: 428px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(18) {
-  -webkit-animation: circleMove 10s infinite 4s;
-          animation: circleMove 10s infinite 4s;
-  left: 1989px;
+  -webkit-animation: circleMove 10s infinite 6s;
+          animation: circleMove 10s infinite 6s;
+  left: 25px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(19) {
-  -webkit-animation: circleMove 7s infinite 8s;
-          animation: circleMove 7s infinite 8s;
-  left: 551px;
+  -webkit-animation: circleMove 10s infinite 8s;
+          animation: circleMove 10s infinite 8s;
+  left: 330px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(20) {
-  -webkit-animation: circleMove 10s infinite 3s;
-          animation: circleMove 10s infinite 3s;
-  left: 1776px;
+  -webkit-animation: circleMove 11s infinite 3s;
+          animation: circleMove 11s infinite 3s;
+  left: 96px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(21) {
-  -webkit-animation: circleMove 7s infinite 4s;
-          animation: circleMove 7s infinite 4s;
-  left: 1849px;
+  -webkit-animation: circleMove 9s infinite 2s;
+          animation: circleMove 9s infinite 2s;
+  left: 1184px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(22) {
-  -webkit-animation: circleMove 8s infinite 8s;
-          animation: circleMove 8s infinite 8s;
-  left: 379px;
+  -webkit-animation: circleMove 9s infinite 2s;
+          animation: circleMove 9s infinite 2s;
+  left: 1934px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(23) {
-  -webkit-animation: circleMove 8s infinite 1s;
-          animation: circleMove 8s infinite 1s;
-  left: 807px;
+  -webkit-animation: circleMove 11s infinite 1s;
+          animation: circleMove 11s infinite 1s;
+  left: 1068px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(24) {
-  -webkit-animation: circleMove 7s infinite 5s;
-          animation: circleMove 7s infinite 5s;
-  left: 565px;
+  -webkit-animation: circleMove 9s infinite 5s;
+          animation: circleMove 9s infinite 5s;
+  left: 1287px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(25) {
-  -webkit-animation: circleMove 6s infinite 7s;
-          animation: circleMove 6s infinite 7s;
-  left: 440px;
+  -webkit-animation: circleMove 8s infinite 3s;
+          animation: circleMove 8s infinite 3s;
+  left: 1469px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(26) {
-  -webkit-animation: circleMove 10s infinite 1s;
-          animation: circleMove 10s infinite 1s;
-  left: 886px;
+  -webkit-animation: circleMove 8s infinite 9s;
+          animation: circleMove 8s infinite 9s;
+  left: 1342px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(27) {
-  -webkit-animation: circleMove 11s infinite 8s;
-          animation: circleMove 11s infinite 8s;
-  left: 1371px;
+  -webkit-animation: circleMove 9s infinite 4s;
+          animation: circleMove 9s infinite 4s;
+  left: 995px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(28) {
-  -webkit-animation: circleMove 7s infinite 2s;
-          animation: circleMove 7s infinite 2s;
-  left: 544px;
+  -webkit-animation: circleMove 12s infinite 3s;
+          animation: circleMove 12s infinite 3s;
+  left: 1325px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(29) {
-  -webkit-animation: circleMove 9s infinite 9s;
-          animation: circleMove 9s infinite 9s;
-  left: 1077px;
+  -webkit-animation: circleMove 12s infinite 9s;
+          animation: circleMove 12s infinite 9s;
+  left: 558px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(30) {
-  -webkit-animation: circleMove 12s infinite 6s;
-          animation: circleMove 12s infinite 6s;
-  left: 1517px;
+  -webkit-animation: circleMove 8s infinite 3s;
+          animation: circleMove 8s infinite 3s;
+  left: 1154px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(31) {
-  -webkit-animation: circleMove 7s infinite 8s;
-          animation: circleMove 7s infinite 8s;
-  left: 157px;
+  -webkit-animation: circleMove 7s infinite 3s;
+          animation: circleMove 7s infinite 3s;
+  left: 274px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(32) {
-  -webkit-animation: circleMove 9s infinite 1s;
-          animation: circleMove 9s infinite 1s;
-  left: 1572px;
+  -webkit-animation: circleMove 10s infinite 8s;
+          animation: circleMove 10s infinite 8s;
+  left: 230px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(33) {
-  -webkit-animation: circleMove 7s infinite 3s;
-          animation: circleMove 7s infinite 3s;
-  left: 427px;
+  -webkit-animation: circleMove 8s infinite 2s;
+          animation: circleMove 8s infinite 2s;
+  left: 921px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(34) {
-  -webkit-animation: circleMove 12s infinite 1s;
-          animation: circleMove 12s infinite 1s;
-  left: 1858px;
+  -webkit-animation: circleMove 9s infinite 1s;
+          animation: circleMove 9s infinite 1s;
+  left: 80px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(35) {
-  -webkit-animation: circleMove 8s infinite 8s;
-          animation: circleMove 8s infinite 8s;
-  left: 1663px;
+  -webkit-animation: circleMove 9s infinite 10s;
+          animation: circleMove 9s infinite 10s;
+  left: 1474px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(36) {
-  -webkit-animation: circleMove 7s infinite 3s;
-          animation: circleMove 7s infinite 3s;
-  left: 1404px;
+  -webkit-animation: circleMove 7s infinite 7s;
+          animation: circleMove 7s infinite 7s;
+  left: 188px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(37) {
-  -webkit-animation: circleMove 12s infinite 9s;
-          animation: circleMove 12s infinite 9s;
-  left: 1331px;
+  -webkit-animation: circleMove 8s infinite 3s;
+          animation: circleMove 8s infinite 3s;
+  left: 415px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(38) {
-  -webkit-animation: circleMove 9s infinite 4s;
-          animation: circleMove 9s infinite 4s;
-  left: 1831px;
+  -webkit-animation: circleMove 11s infinite 3s;
+          animation: circleMove 11s infinite 3s;
+  left: 835px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(39) {
-  -webkit-animation: circleMove 7s infinite 10s;
-          animation: circleMove 7s infinite 10s;
-  left: 1943px;
+  -webkit-animation: circleMove 11s infinite 5s;
+          animation: circleMove 11s infinite 5s;
+  left: 918px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(40) {
-  -webkit-animation: circleMove 11s infinite 1s;
-          animation: circleMove 11s infinite 1s;
-  left: 1296px;
+  -webkit-animation: circleMove 6s infinite 9s;
+          animation: circleMove 6s infinite 9s;
+  left: 1770px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(41) {
-  -webkit-animation: circleMove 12s infinite 2s;
-          animation: circleMove 12s infinite 2s;
-  left: 783px;
+  -webkit-animation: circleMove 6s infinite 7s;
+          animation: circleMove 6s infinite 7s;
+  left: 155px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(42) {
-  -webkit-animation: circleMove 8s infinite 8s;
-          animation: circleMove 8s infinite 8s;
-  left: 1290px;
+  -webkit-animation: circleMove 11s infinite 6s;
+          animation: circleMove 11s infinite 6s;
+  left: 1304px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(43) {
-  -webkit-animation: circleMove 9s infinite 5s;
-          animation: circleMove 9s infinite 5s;
-  left: 584px;
+  -webkit-animation: circleMove 7s infinite 8s;
+          animation: circleMove 7s infinite 8s;
+  left: 1348px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(44) {
-  -webkit-animation: circleMove 12s infinite 3s;
-          animation: circleMove 12s infinite 3s;
-  left: 583px;
+  -webkit-animation: circleMove 12s infinite 10s;
+          animation: circleMove 12s infinite 10s;
+  left: 42px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(45) {
-  -webkit-animation: circleMove 9s infinite 6s;
-          animation: circleMove 9s infinite 6s;
-  left: 1997px;
+  -webkit-animation: circleMove 12s infinite 2s;
+          animation: circleMove 12s infinite 2s;
+  left: 1295px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(46) {
-  -webkit-animation: circleMove 9s infinite 3s;
-          animation: circleMove 9s infinite 3s;
-  left: 957px;
+  -webkit-animation: circleMove 9s infinite 7s;
+          animation: circleMove 9s infinite 7s;
+  left: 1323px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(47) {
-  -webkit-animation: circleMove 8s infinite 10s;
-          animation: circleMove 8s infinite 10s;
-  left: 1240px;
+  -webkit-animation: circleMove 10s infinite 6s;
+          animation: circleMove 10s infinite 6s;
+  left: 213px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(48) {
-  -webkit-animation: circleMove 7s infinite 6s;
-          animation: circleMove 7s infinite 6s;
-  left: 344px;
+  -webkit-animation: circleMove 10s infinite 10s;
+          animation: circleMove 10s infinite 10s;
+  left: 1001px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(49) {
-  -webkit-animation: circleMove 8s infinite 1s;
-          animation: circleMove 8s infinite 1s;
-  left: 386px;
+  -webkit-animation: circleMove 6s infinite 8s;
+          animation: circleMove 6s infinite 8s;
+  left: 158px;
   width: 40px;
   height: 40px;
   opacity: 0.2;
 }
 
 body main .home .homeProjects .circle:nth-child(50) {
-  -webkit-animation: circleMove 7s infinite 3s;
-          animation: circleMove 7s infinite 3s;
-  left: 58px;
+  -webkit-animation: circleMove 8s infinite 9s;
+          animation: circleMove 8s infinite 9s;
+  left: 1170px;
   width: 10px;
   height: 10px;
   opacity: 0.2;
