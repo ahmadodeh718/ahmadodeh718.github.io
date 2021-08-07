@@ -1,0 +1,918 @@
+@font-face {
+  font-family: ACaslonProR;
+  src: url("../fonts/ACaslonPro-Regular.otf");
+}
+
+@font-face {
+  font-family: ACaslonProB;
+  src: url("../fonts/ACaslonPro-Bold.otf");
+}
+
+@font-face {
+  font-family: ACaslonProIB;
+  src: url("../fonts/ACaslonPro-BoldItalic.otf");
+}
+
+* {
+  font-family: ACaslonProR;
+}
+
+body .coming-soon {
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+}
+
+@media (max-width: 768px) {
+  body .coming-soon {
+    height: auto;
+  }
+}
+
+body .coming-soon .x-btn {
+  display: none;
+}
+
+body .coming-soon .corner-link {
+  position: absolute;
+  right: 30px;
+  top: 30px;
+  z-index: 20;
+}
+
+body .coming-soon .corner-link button {
+  background: transparent;
+  border: none;
+  font-size: 25px;
+  color: #001F60;
+  font-family: ACaslonProB;
+}
+
+body .coming-soon .corner-link button:focus {
+  outline: none;
+}
+
+body .coming-soon .bg-img {
+  position: absolute;
+  z-index: -2;
+  overflow: hidden;
+  width: 100%;
+  height: 100vh;
+}
+
+@media (max-width: 768px) {
+  body .coming-soon .bg-img {
+    width: 100%;
+    height: 100%;
+  }
+}
+
+body .coming-soon .bg-img img {
+  width: 100%;
+  height: 100%;
+  -o-object-position: center;
+     object-position: center;
+}
+
+@media (max-width: 768px) {
+  body .coming-soon .bg-img img {
+    width: auto;
+    height: 100%;
+  }
+}
+
+body .coming-soon .bg-cover {
+  width: 100%;
+  height: 100vh;
+  position: absolute;
+  background-color: #eee;
+  opacity: .9;
+  z-index: -1;
+}
+
+@media (max-width: 768px) {
+  body .coming-soon .bg-cover {
+    height: 100%;
+  }
+}
+
+body .coming-soon .media {
+  width: 8%;
+  height: auto;
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+@media (max-width: 768px) {
+  body .coming-soon .media {
+    width: 50%;
+    margin: 0 20%;
+  }
+}
+
+body .coming-soon .media a {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+}
+
+body .coming-soon .media a:nth-child(1) {
+  -webkit-animation-delay: 0.2s !important;
+          animation-delay: 0.2s !important;
+}
+
+body .coming-soon .media a:nth-child(2) {
+  -webkit-animation-delay: 0.4s !important;
+          animation-delay: 0.4s !important;
+}
+
+body .coming-soon .media a:nth-child(3) {
+  -webkit-animation-delay: 0.6s !important;
+          animation-delay: 0.6s !important;
+}
+
+body .coming-soon .media a:nth-child(4) {
+  -webkit-animation-delay: 0.8s !important;
+          animation-delay: 0.8s !important;
+}
+
+body .coming-soon .media a:nth-child(5) {
+  -webkit-animation-delay: 1s !important;
+          animation-delay: 1s !important;
+}
+
+body .coming-soon .media a:nth-child(6) {
+  -webkit-animation-delay: 1.2s !important;
+          animation-delay: 1.2s !important;
+}
+
+body .coming-soon .media a:nth-child(7) {
+  -webkit-animation-delay: 1.4s !important;
+          animation-delay: 1.4s !important;
+}
+
+body .coming-soon .media a:nth-child(8) {
+  -webkit-animation-delay: 1.6s !important;
+          animation-delay: 1.6s !important;
+}
+
+body .coming-soon .media a:nth-child(9) {
+  -webkit-animation-delay: 1.8s !important;
+          animation-delay: 1.8s !important;
+}
+
+body .coming-soon .media a:nth-child(10) {
+  -webkit-animation-delay: 2s !important;
+          animation-delay: 2s !important;
+}
+
+body .coming-soon .media a:nth-child(11) {
+  -webkit-animation-delay: 2.2s !important;
+          animation-delay: 2.2s !important;
+}
+
+body .coming-soon .media a:nth-child(12) {
+  -webkit-animation-delay: 2.4s !important;
+          animation-delay: 2.4s !important;
+}
+
+body .coming-soon .media a:nth-child(13) {
+  -webkit-animation-delay: 2.6s !important;
+          animation-delay: 2.6s !important;
+}
+
+body .coming-soon .media a:nth-child(14) {
+  -webkit-animation-delay: 2.8s !important;
+          animation-delay: 2.8s !important;
+}
+
+body .coming-soon .media a:nth-child(15) {
+  -webkit-animation-delay: 3s !important;
+          animation-delay: 3s !important;
+}
+
+body .coming-soon .media a:nth-child(16) {
+  -webkit-animation-delay: 3.2s !important;
+          animation-delay: 3.2s !important;
+}
+
+body .coming-soon .media a:nth-child(17) {
+  -webkit-animation-delay: 3.4s !important;
+          animation-delay: 3.4s !important;
+}
+
+body .coming-soon .media a:nth-child(18) {
+  -webkit-animation-delay: 3.6s !important;
+          animation-delay: 3.6s !important;
+}
+
+body .coming-soon .media a:nth-child(19) {
+  -webkit-animation-delay: 3.8s !important;
+          animation-delay: 3.8s !important;
+}
+
+body .coming-soon .media a:nth-child(20) {
+  -webkit-animation-delay: 4s !important;
+          animation-delay: 4s !important;
+}
+
+body .coming-soon .media a:nth-child(21) {
+  -webkit-animation-delay: 4.2s !important;
+          animation-delay: 4.2s !important;
+}
+
+body .coming-soon .media a:nth-child(22) {
+  -webkit-animation-delay: 4.4s !important;
+          animation-delay: 4.4s !important;
+}
+
+body .coming-soon .media a:nth-child(23) {
+  -webkit-animation-delay: 4.6s !important;
+          animation-delay: 4.6s !important;
+}
+
+body .coming-soon .media a:nth-child(24) {
+  -webkit-animation-delay: 4.8s !important;
+          animation-delay: 4.8s !important;
+}
+
+body .coming-soon .media a:nth-child(25) {
+  -webkit-animation-delay: 5s !important;
+          animation-delay: 5s !important;
+}
+
+body .coming-soon .media a:nth-child(26) {
+  -webkit-animation-delay: 5.2s !important;
+          animation-delay: 5.2s !important;
+}
+
+body .coming-soon .media a:nth-child(27) {
+  -webkit-animation-delay: 5.4s !important;
+          animation-delay: 5.4s !important;
+}
+
+body .coming-soon .media a:nth-child(28) {
+  -webkit-animation-delay: 5.6s !important;
+          animation-delay: 5.6s !important;
+}
+
+body .coming-soon .media a:nth-child(29) {
+  -webkit-animation-delay: 5.8s !important;
+          animation-delay: 5.8s !important;
+}
+
+@media (max-width: 768px) {
+  body .coming-soon .media a {
+    width: 30px;
+    height: 30px;
+  }
+}
+
+body .coming-soon .media a img {
+  height: 100%;
+  width: 100%;
+}
+
+body .coming-soon .logo-con {
+  padding: 50px 80px 0;
+  -webkit-transition: 1s .2s;
+  transition: 1s .2s;
+}
+
+body .coming-soon .logo-con img {
+  -webkit-transition: 1s .1s;
+  transition: 1s .1s;
+  width: 100%;
+  height: auto;
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+@media (max-width: 768px) {
+  body .coming-soon .logo-con img {
+    width: 50%;
+    margin: 0 25%;
+  }
+}
+
+@media (max-width: 567px) {
+  body .coming-soon .logo-con img {
+    width: 100%;
+    margin: 0 0;
+  }
+}
+
+body .coming-soon .coming-soon-text {
+  margin-top: 25%;
+  padding-left: 2%;
+}
+
+@media (max-width: 768px) {
+  body .coming-soon .coming-soon-text {
+    margin-top: 3%;
+  }
+}
+
+body .coming-soon .coming-soon-text .title {
+  position: relative;
+  font-size: 45px;
+  font-family: ACaslonProB;
+  color: #001F60;
+  letter-spacing: 8px;
+}
+
+@media (max-width: 768px) {
+  body .coming-soon .coming-soon-text .title {
+    font-size: 30px;
+  }
+}
+
+body .coming-soon .coming-soon-text .title .blue-line {
+  position: absolute;
+  bottom: 5px;
+  width: 8%;
+  height: 3.5px;
+  left: 2px;
+  background-color: #001F60;
+}
+
+body .coming-soon .coming-soon-text .des {
+  font-size: 25px;
+  color: #001F60;
+  font-family: ACaslonProB;
+  margin-top: 20px;
+  width: 65%;
+}
+
+@media (max-width: 768px) {
+  body .coming-soon .coming-soon-text .des {
+    width: 90%;
+  }
+}
+
+body .coming-soon .coming-soon-text .timer {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  color: #001F60;
+  margin-top: 30px;
+}
+
+@media (max-width: 768px) {
+  body .coming-soon .coming-soon-text .timer {
+    margin-bottom: 80px;
+    margin-left: 10%;
+  }
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card {
+  display: inline-block;
+  margin-right: 60px;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(1) {
+  -webkit-transition-delay: 0.2s !important;
+          transition-delay: 0.2s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(2) {
+  -webkit-transition-delay: 0.4s !important;
+          transition-delay: 0.4s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(3) {
+  -webkit-transition-delay: 0.6s !important;
+          transition-delay: 0.6s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(4) {
+  -webkit-transition-delay: 0.8s !important;
+          transition-delay: 0.8s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(5) {
+  -webkit-transition-delay: 1s !important;
+          transition-delay: 1s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(6) {
+  -webkit-transition-delay: 1.2s !important;
+          transition-delay: 1.2s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(7) {
+  -webkit-transition-delay: 1.4s !important;
+          transition-delay: 1.4s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(8) {
+  -webkit-transition-delay: 1.6s !important;
+          transition-delay: 1.6s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(9) {
+  -webkit-transition-delay: 1.8s !important;
+          transition-delay: 1.8s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(10) {
+  -webkit-transition-delay: 2s !important;
+          transition-delay: 2s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(11) {
+  -webkit-transition-delay: 2.2s !important;
+          transition-delay: 2.2s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(12) {
+  -webkit-transition-delay: 2.4s !important;
+          transition-delay: 2.4s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(13) {
+  -webkit-transition-delay: 2.6s !important;
+          transition-delay: 2.6s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(14) {
+  -webkit-transition-delay: 2.8s !important;
+          transition-delay: 2.8s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(15) {
+  -webkit-transition-delay: 3s !important;
+          transition-delay: 3s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(16) {
+  -webkit-transition-delay: 3.2s !important;
+          transition-delay: 3.2s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(17) {
+  -webkit-transition-delay: 3.4s !important;
+          transition-delay: 3.4s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(18) {
+  -webkit-transition-delay: 3.6s !important;
+          transition-delay: 3.6s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(19) {
+  -webkit-transition-delay: 3.8s !important;
+          transition-delay: 3.8s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(20) {
+  -webkit-transition-delay: 4s !important;
+          transition-delay: 4s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(21) {
+  -webkit-transition-delay: 4.2s !important;
+          transition-delay: 4.2s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(22) {
+  -webkit-transition-delay: 4.4s !important;
+          transition-delay: 4.4s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(23) {
+  -webkit-transition-delay: 4.6s !important;
+          transition-delay: 4.6s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(24) {
+  -webkit-transition-delay: 4.8s !important;
+          transition-delay: 4.8s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(25) {
+  -webkit-transition-delay: 5s !important;
+          transition-delay: 5s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(26) {
+  -webkit-transition-delay: 5.2s !important;
+          transition-delay: 5.2s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(27) {
+  -webkit-transition-delay: 5.4s !important;
+          transition-delay: 5.4s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(28) {
+  -webkit-transition-delay: 5.6s !important;
+          transition-delay: 5.6s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(29) {
+  -webkit-transition-delay: 5.8s !important;
+          transition-delay: 5.8s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(1) {
+  -webkit-animation-delay: 0.2s !important;
+          animation-delay: 0.2s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(2) {
+  -webkit-animation-delay: 0.4s !important;
+          animation-delay: 0.4s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(3) {
+  -webkit-animation-delay: 0.6s !important;
+          animation-delay: 0.6s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(4) {
+  -webkit-animation-delay: 0.8s !important;
+          animation-delay: 0.8s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(5) {
+  -webkit-animation-delay: 1s !important;
+          animation-delay: 1s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(6) {
+  -webkit-animation-delay: 1.2s !important;
+          animation-delay: 1.2s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(7) {
+  -webkit-animation-delay: 1.4s !important;
+          animation-delay: 1.4s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(8) {
+  -webkit-animation-delay: 1.6s !important;
+          animation-delay: 1.6s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(9) {
+  -webkit-animation-delay: 1.8s !important;
+          animation-delay: 1.8s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(10) {
+  -webkit-animation-delay: 2s !important;
+          animation-delay: 2s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(11) {
+  -webkit-animation-delay: 2.2s !important;
+          animation-delay: 2.2s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(12) {
+  -webkit-animation-delay: 2.4s !important;
+          animation-delay: 2.4s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(13) {
+  -webkit-animation-delay: 2.6s !important;
+          animation-delay: 2.6s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(14) {
+  -webkit-animation-delay: 2.8s !important;
+          animation-delay: 2.8s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(15) {
+  -webkit-animation-delay: 3s !important;
+          animation-delay: 3s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(16) {
+  -webkit-animation-delay: 3.2s !important;
+          animation-delay: 3.2s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(17) {
+  -webkit-animation-delay: 3.4s !important;
+          animation-delay: 3.4s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(18) {
+  -webkit-animation-delay: 3.6s !important;
+          animation-delay: 3.6s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(19) {
+  -webkit-animation-delay: 3.8s !important;
+          animation-delay: 3.8s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(20) {
+  -webkit-animation-delay: 4s !important;
+          animation-delay: 4s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(21) {
+  -webkit-animation-delay: 4.2s !important;
+          animation-delay: 4.2s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(22) {
+  -webkit-animation-delay: 4.4s !important;
+          animation-delay: 4.4s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(23) {
+  -webkit-animation-delay: 4.6s !important;
+          animation-delay: 4.6s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(24) {
+  -webkit-animation-delay: 4.8s !important;
+          animation-delay: 4.8s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(25) {
+  -webkit-animation-delay: 5s !important;
+          animation-delay: 5s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(26) {
+  -webkit-animation-delay: 5.2s !important;
+          animation-delay: 5.2s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(27) {
+  -webkit-animation-delay: 5.4s !important;
+          animation-delay: 5.4s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(28) {
+  -webkit-animation-delay: 5.6s !important;
+          animation-delay: 5.6s !important;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card:nth-child(29) {
+  -webkit-animation-delay: 5.8s !important;
+          animation-delay: 5.8s !important;
+}
+
+@media (max-width: 768px) {
+  body .coming-soon .coming-soon-text .timer .timer-card {
+    margin-right: 10px;
+  }
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card .rword {
+  text-align: right;
+  font-size: 25px;
+}
+
+body .coming-soon .coming-soon-text .timer .timer-card .number {
+  font-size: 60px;
+  font-family: ACaslonProB;
+  padding-right: 60px;
+  -webkit-transform: translateY(-10px);
+          transform: translateY(-10px);
+  -webkit-animation-duration: .5s !important;
+          animation-duration: .5s !important;
+}
+
+body .coming-soon .aboutus-text {
+  -webkit-transition: .5s;
+  transition: .5s;
+  margin-top: 10%;
+  padding-left: 5%;
+}
+
+@media (max-width: 768px) {
+  body .coming-soon .aboutus-text {
+    margin-top: 3%;
+  }
+}
+
+body .coming-soon .aboutus-text .title {
+  -webkit-animation-delay: 0s !important;
+          animation-delay: 0s !important;
+  position: relative;
+  font-size: 45px;
+  font-family: ACaslonProB;
+  color: #001F60;
+}
+
+body .coming-soon .aboutus-text .title .blue-line {
+  position: absolute;
+  bottom: 5px;
+  width: 8%;
+  height: 3.5px;
+  background-color: #001F60;
+}
+
+body .coming-soon .aboutus-text .des {
+  -webkit-animation-delay: .1s !important;
+          animation-delay: .1s !important;
+  font-size: 19px;
+  color: #001F60;
+  font-family: ACaslonProB;
+  margin-top: 20px;
+  width: 90%;
+  line-height: 35px;
+}
+
+body .coming-soon .aboutus-text .sub-title {
+  position: relative;
+  font-size: 27px;
+  font-family: ACaslonProB;
+  color: #001F60;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+body .coming-soon .aboutus-text .contacts {
+  -webkit-animation-delay: .6s;
+          animation-delay: .6s;
+}
+
+@media (max-width: 768px) {
+  body .coming-soon .aboutus-text .contacts {
+    margin-bottom: 70px;
+  }
+}
+
+body .coming-soon .aboutus-text .contacts .contact {
+  position: relative;
+  color: #001F60;
+  font-size: 19px;
+  font-family: ACaslonProB;
+  margin-bottom: 20px;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(1) {
+  -webkit-animation-delay: 0.3s !important;
+          animation-delay: 0.3s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(2) {
+  -webkit-animation-delay: 0.6s !important;
+          animation-delay: 0.6s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(3) {
+  -webkit-animation-delay: 0.9s !important;
+          animation-delay: 0.9s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(4) {
+  -webkit-animation-delay: 1.2s !important;
+          animation-delay: 1.2s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(5) {
+  -webkit-animation-delay: 1.5s !important;
+          animation-delay: 1.5s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(6) {
+  -webkit-animation-delay: 1.8s !important;
+          animation-delay: 1.8s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(7) {
+  -webkit-animation-delay: 2.1s !important;
+          animation-delay: 2.1s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(8) {
+  -webkit-animation-delay: 2.4s !important;
+          animation-delay: 2.4s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(9) {
+  -webkit-animation-delay: 2.7s !important;
+          animation-delay: 2.7s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(10) {
+  -webkit-animation-delay: 3s !important;
+          animation-delay: 3s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(11) {
+  -webkit-animation-delay: 3.3s !important;
+          animation-delay: 3.3s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(12) {
+  -webkit-animation-delay: 3.6s !important;
+          animation-delay: 3.6s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(13) {
+  -webkit-animation-delay: 3.9s !important;
+          animation-delay: 3.9s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(14) {
+  -webkit-animation-delay: 4.2s !important;
+          animation-delay: 4.2s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(15) {
+  -webkit-animation-delay: 4.5s !important;
+          animation-delay: 4.5s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(16) {
+  -webkit-animation-delay: 4.8s !important;
+          animation-delay: 4.8s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(17) {
+  -webkit-animation-delay: 5.1s !important;
+          animation-delay: 5.1s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(18) {
+  -webkit-animation-delay: 5.4s !important;
+          animation-delay: 5.4s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(19) {
+  -webkit-animation-delay: 5.7s !important;
+          animation-delay: 5.7s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(20) {
+  -webkit-animation-delay: 6s !important;
+          animation-delay: 6s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(21) {
+  -webkit-animation-delay: 6.3s !important;
+          animation-delay: 6.3s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(22) {
+  -webkit-animation-delay: 6.6s !important;
+          animation-delay: 6.6s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(23) {
+  -webkit-animation-delay: 6.9s !important;
+          animation-delay: 6.9s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(24) {
+  -webkit-animation-delay: 7.2s !important;
+          animation-delay: 7.2s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(25) {
+  -webkit-animation-delay: 7.5s !important;
+          animation-delay: 7.5s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(26) {
+  -webkit-animation-delay: 7.8s !important;
+          animation-delay: 7.8s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(27) {
+  -webkit-animation-delay: 8.1s !important;
+          animation-delay: 8.1s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(28) {
+  -webkit-animation-delay: 8.4s !important;
+          animation-delay: 8.4s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact:nth-child(29) {
+  -webkit-animation-delay: 8.7s !important;
+          animation-delay: 8.7s !important;
+}
+
+body .coming-soon .aboutus-text .contacts .contact span {
+  font-family: ACaslonProB;
+  margin-right: 10px;
+  font-size: 22px;
+}
+
+body .coming-soon .aboutus-text .contacts .contact .blue-line {
+  position: absolute;
+  bottom: 0;
+  width: 35px;
+  height: 3.5px;
+  left: 0;
+  background-color: #001F60;
+}
+/*# sourceMappingURL=style.css.map */
